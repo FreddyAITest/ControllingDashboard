@@ -144,7 +144,6 @@
        ═══════════════════════════════════════ */
     barChart("chart-maint-total", DATA.maintTotal, C.purple, C.purpleFill);
     barChart("chart-maint-sqm", DATA.maintSqm, C.amber, C.amberFill, { min: 10 });
-    barChart("chart-newbuild", DATA.newBuild, C.pink, C.pinkFill);
     lineChart("chart-co2", DATA.co2, C.green, C.greenFill, { min: 25 });
 
     /* ═══════════════════════════════════════
@@ -152,6 +151,7 @@
        ═══════════════════════════════════════ */
     lineChart("chart-employee-sat", DATA.employeeSat, C.cyan, C.cyanFill, { min: 0 });
     barChart("chart-units-per-emp", DATA.unitsPerEmp, C.blue, C.blueFill, { min: 30 });
+    barChart("chart-newbuild", DATA.newBuild, C.pink, C.pinkFill);
 
     // ── Header date ──
     document.getElementById("header-date").textContent =
