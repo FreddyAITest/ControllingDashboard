@@ -44,9 +44,8 @@
     Chart.defaults.plugins.legend.display = false;
     Chart.defaults.responsive = true;
     Chart.defaults.maintainAspectRatio = false;
-    Chart.defaults.animation = { duration: 900, easing: "easeOutQuart" };
-    Chart.defaults.interaction.mode = "nearest";
-    Chart.defaults.interaction.intersect = true;
+    Chart.defaults.interaction.mode = "index";
+    Chart.defaults.interaction.intersect = false;
 
     const gridOpts = (min) => ({
         x: { grid: { color: C.grid }, ticks: { font: { size: 11 } } },
@@ -54,16 +53,22 @@
     });
 
     const tooltipOpts = {
-        interaction: { mode: "nearest", intersect: true },
+        interaction: { mode: "index", intersect: false },
+        animation: { duration: 400 },
         plugins: {
             tooltip: {
-                backgroundColor: "#1a2236",
-                titleColor: "#e8ecf4",
+                enabled: true,
+                backgroundColor: "rgba(20,30,55,.96)",
+                titleColor: "#fff",
+                titleFont: { weight: "bold", size: 13 },
                 bodyColor: "#e8ecf4",
-                borderColor: "rgba(255,255,255,.1)",
+                bodyFont: { size: 13 },
+                borderColor: "rgba(79,140,255,.4)",
                 borderWidth: 1,
                 cornerRadius: 10,
-                padding: 12,
+                padding: 14,
+                displayColors: false,
+                animation: { duration: 150 },
             },
         },
     };
