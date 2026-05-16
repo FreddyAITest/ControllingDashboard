@@ -214,6 +214,71 @@ body {
     box-shadow: var(--shadow);
 }
 
+/* ========== FILTER BAR ========== */
+.filter-bar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    padding: 14px 0;
+    margin-bottom: 8px;
+    animation: fadeUp .4s ease-out both;
+}
+.filter-btn {
+    font-family: var(--font);
+    font-size: .78rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 6px 14px;
+    cursor: pointer;
+    transition: all .2s ease;
+    user-select: none;
+}
+.filter-btn:hover {
+    background: var(--surface-alt);
+    color: var(--text);
+    transform: translateY(-1px);
+}
+.filter-btn.active {
+    background: rgba(79,140,255,.15);
+    border-color: var(--accent);
+    color: var(--accent);
+    box-shadow: 0 0 10px rgba(79,140,255,.15);
+}
+.filter-btn.target-btn.active {
+    background: rgba(255,255,255,.08);
+    border-color: rgba(255,255,255,.3);
+    color: #fff;
+}
+.filter-btn.preset {
+    background: transparent;
+    border-style: dashed;
+    border-color: var(--text-muted);
+    color: var(--text-muted);
+}
+.filter-btn.preset:hover {
+    border-color: var(--text);
+    color: var(--text);
+}
+.filter-btn.crisis {
+    border-color: var(--amber);
+    color: var(--amber);
+    background: rgba(251,191,36,.08);
+}
+.filter-btn.crisis:hover {
+    background: rgba(251,191,36,.15);
+    box-shadow: 0 0 12px rgba(251,191,36,.2);
+}
+.filter-sep {
+    color: var(--text-muted);
+    opacity: .3;
+    font-size: .9rem;
+    margin: 0 4px;
+}
+
 /* ========== PRINT / PDF ========== */
 @media print {
     body { background: #0b0f1a !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }

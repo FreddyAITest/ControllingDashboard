@@ -7,22 +7,21 @@
     "use strict";
 
     // ── Data ──
-    const labels = [2019, 2020, 2021, 2022, 2023, 2024, 2025];
-    const labelsT = [...labels, "Ziel 2028"];
+    const ALL_LABELS = [2019, 2020, 2021, 2022, 2023, 2024, 2025];
 
     const DATA = {
-        ebitda:       [1760.1, 1909.8, 2254.4, 2606.1, 2583.8, 2641.8, 2800.8],
-        ltv:          [43.1,   39.4,   45.4,   45.1,   47.3,   47.7,   45.4],
-        roi:          [2.29,   5.35,   2.30,  -0.66,  -7.34,  -1.07,   4.49],
-        csi:          [61.2,   69.8,   74.3,   75.6,   72.4,   75.2,   76.5],
-        vacancy:      [2.6,    2.4,    2.2,    2.0,    2.0,    2.0,    2.1],
-        rent:         [3.9,    3.1,    3.8,    3.3,    3.8,    4.1,    4.1],
-        maintTotal:   [1971.1, 1935.9, 2185.6, 2266.3, 1527.0, 1601.0, 1972.7],
-        maintSqm:     [12.20,  12.10,  13.01,  12.86,  12.41,  13.82,  14.46],
-        newBuild:     [2092,   2088,   2200,   3749,   2460,   3747,   2090],
-        co2:          [47.2,   39.5,   38.4,   33.0,   31.7,   31.2,   30.7],
-        employeeSat:  [0,      0,      0,      0,      0,      0.75,   0.77],
-        unitsPerEmp:  [47.8,   46.1,   40.1,   51.3,   51.7,   50.9,   47.8],
+        ebitda: [1760.1, 1909.8, 2254.4, 2606.1, 2583.8, 2641.8, 2800.8],
+        ltv: [43.1, 39.4, 45.4, 45.1, 47.3, 47.7, 45.4],
+        roi: [2.29, 5.35, 2.30, -0.66, -7.34, -1.07, 4.49],
+        csi: [61.2, 69.8, 74.3, 75.6, 72.4, 75.2, 76.5],
+        vacancy: [2.6, 2.4, 2.2, 2.0, 2.0, 2.0, 2.1],
+        rent: [3.9, 3.1, 3.8, 3.3, 3.8, 4.1, 4.1],
+        maintTotal: [1971.1, 1935.9, 2185.6, 2266.3, 1527.0, 1601.0, 1972.7],
+        maintSqm: [12.20, 12.10, 13.01, 12.86, 12.41, 13.82, 14.46],
+        newBuild: [2092, 2088, 2200, 3749, 2460, 3747, 2090],
+        co2: [47.2, 39.5, 38.4, 33.0, 31.7, 31.2, 30.7],
+        employeeSat: [0, 0, 0, 0, 0, 0.75, 0.77],
+        unitsPerEmp: [47.8, 46.1, 40.1, 51.3, 51.7, 50.9, 47.8],
     };
 
     // Zielwerte 2028
@@ -33,18 +32,22 @@
         employeeSat: 0.77, co2: 25, unitsPerEmp: 47.5,
     };
 
+    // ── Filter state ──
+    const activeYears = new Set(ALL_LABELS);
+    let showTarget = true;
+
     // ── Palette ──
     const C = {
-        blue:      "#4f8cff",  blueFill:  "rgba(79,140,255,.15)",
-        purple:    "#a78bfa",  purpleFill:"rgba(167,139,250,.15)",
-        green:     "#34d399",  greenFill: "rgba(52,211,153,.15)",
-        amber:     "#fbbf24",  amberFill: "rgba(251,191,36,.15)",
-        red:       "#f87171",  redFill:   "rgba(248,113,113,.12)",
-        cyan:      "#22d3ee",  cyanFill:  "rgba(34,211,238,.12)",
-        pink:      "#f472b6",  pinkFill:  "rgba(244,114,182,.12)",
-        target:    "#ffffff",  targetFill:"rgba(255,255,255,.06)",
-        muted:     "#8a94a8",
-        grid:      "rgba(255,255,255,.06)",
+        blue: "#4f8cff", blueFill: "rgba(79,140,255,.15)",
+        purple: "#a78bfa", purpleFill: "rgba(167,139,250,.15)",
+        green: "#34d399", greenFill: "rgba(52,211,153,.15)",
+        amber: "#fbbf24", amberFill: "rgba(251,191,36,.15)",
+        red: "#f87171", redFill: "rgba(248,113,113,.12)",
+        cyan: "#22d3ee", cyanFill: "rgba(34,211,238,.12)",
+        pink: "#f472b6", pinkFill: "rgba(244,114,182,.12)",
+        target: "#ffffff", targetFill: "rgba(255,255,255,.06)",
+        muted: "#8a94a8",
+        grid: "rgba(255,255,255,.06)",
     };
 
     // ── Shared defaults ──
@@ -64,7 +67,7 @@
 
     const tooltipOpts = {
         interaction: { mode: "index", intersect: false },
-        animation: { duration: 400 },
+        animation: { duration: 300 },
         plugins: {
             tooltip: {
                 enabled: true,
@@ -82,17 +85,45 @@
             },
             legend: {
                 display: true,
-                labels: { boxWidth: 10, padding: 12, usePointStyle: true,
-                    filter: (item) => item.text !== undefined },
+                labels: {
+                    boxWidth: 10, padding: 12, usePointStyle: true,
+                    filter: (item) => item.text !== undefined
+                },
             },
         },
     };
 
-    // ── Helper: build datasets with optional Ziel 2028 ──
-    function barChart(id, data, color, fillColor, opts = {}) {
+    // ── Chart registry ──
+    const registry = [];
+
+    function filterData(fullData) {
+        return ALL_LABELS.map((y, i) => activeYears.has(y) ? fullData[i] : null);
+    }
+    function getLabels(hasTarget) {
+        const l = [...ALL_LABELS];
+        if (hasTarget && showTarget) l.push("Ziel 2028");
+        return l;
+    }
+
+    // ── Helper builders ──
+    function barChart(id, dataKey, color, fillColor, opts = {}) {
+        const cfg = { id, dataKey, color, fillColor, type: "bar", opts };
+        registry.push(cfg);
+        return buildBar(cfg);
+    }
+
+    function lineChart(id, dataKey, color, fill, opts = {}) {
+        const cfg = { id, dataKey, color, fill, type: "line", opts };
+        registry.push(cfg);
+        return buildLine(cfg);
+    }
+
+    function buildBar(cfg) {
+        const { id, dataKey, color, fillColor, opts } = cfg;
         const t = opts.target;
-        const l = t !== undefined ? labelsT : (opts.labels || labels);
-        const mainData = t !== undefined ? [...data, null] : data;
+        const hasT = t !== undefined && showTarget;
+        const filtered = filterData(DATA[dataKey]);
+        const mainData = hasT ? [...filtered, null] : filtered;
         const datasets = [{
             label: "Ist-Wert",
             data: mainData,
@@ -102,10 +133,10 @@
             borderRadius: 6,
             hoverBackgroundColor: color,
         }];
-        if (t !== undefined) {
+        if (hasT) {
             datasets.push({
                 label: "Ziel 2028",
-                data: [...data.map(() => null), t],
+                data: [...filtered.map(() => null), t],
                 backgroundColor: C.targetFill,
                 borderColor: C.target,
                 borderWidth: 2,
@@ -113,17 +144,20 @@
                 borderRadius: 6,
             });
         }
-        return new Chart(document.getElementById(id), {
+        cfg.chart = new Chart(document.getElementById(id), {
             type: "bar",
-            data: { labels: l, datasets },
+            data: { labels: getLabels(t !== undefined), datasets },
             options: { scales: gridOpts(opts.min ?? 0), ...tooltipOpts },
         });
+        return cfg.chart;
     }
 
-    function lineChart(id, data, color, fill, opts = {}) {
+    function buildLine(cfg) {
+        const { id, dataKey, color, fill, opts } = cfg;
         const t = opts.target;
-        const l = t !== undefined ? labelsT : (opts.labels || labels);
-        const mainData = t !== undefined ? [...data, null] : data;
+        const hasT = t !== undefined && showTarget;
+        const filtered = filterData(DATA[dataKey]);
+        const mainData = hasT ? [...filtered, null] : filtered;
         const datasets = [{
             label: "Ist-Wert",
             data: mainData,
@@ -135,11 +169,12 @@
             pointBackgroundColor: color,
             tension: .35,
             fill: true,
+            spanGaps: false,
         }];
-        if (t !== undefined) {
+        if (hasT) {
             datasets.push({
                 label: "Ziel 2028",
-                data: [...data.map(() => null), t],
+                data: [...filtered.map(() => null), t],
                 borderColor: C.target,
                 backgroundColor: C.targetFill,
                 borderWidth: 2,
@@ -153,64 +188,158 @@
                 fill: false,
             });
         }
-        return new Chart(document.getElementById(id), {
+        cfg.chart = new Chart(document.getElementById(id), {
             type: "line",
-            data: { labels: l, datasets },
+            data: { labels: getLabels(t !== undefined), datasets },
             options: { scales: gridOpts(opts.min ?? undefined), ...tooltipOpts },
+        });
+        return cfg.chart;
+    }
+
+    // ROI special builder (colour-coded bars)
+    function buildRoi(cfg) {
+        const filtered = filterData(DATA.roi);
+        const hasT = showTarget;
+        const mainData = hasT ? [...filtered, null] : filtered;
+        const bgColors = filtered.map(v => v === null ? "transparent" : (v >= 0 ? C.greenFill : C.redFill));
+        const borderColors = filtered.map(v => v === null ? "transparent" : (v >= 0 ? C.green : C.red));
+        if (hasT) { bgColors.push("transparent"); borderColors.push("transparent"); }
+        const datasets = [{
+            label: "Ist-Wert",
+            data: mainData,
+            backgroundColor: bgColors,
+            borderColor: borderColors,
+            borderWidth: 1.5,
+            borderRadius: 6,
+        }];
+        if (hasT) {
+            datasets.push({
+                label: "Ziel 2028",
+                data: [...filtered.map(() => null), TARGETS.roi],
+                backgroundColor: C.targetFill,
+                borderColor: C.target,
+                borderWidth: 2,
+                borderDash: [5, 3],
+                borderRadius: 6,
+            });
+        }
+        cfg.chart = new Chart(document.getElementById("chart-roi"), {
+            type: "bar",
+            data: { labels: getLabels(true), datasets },
+            options: { scales: gridOpts(undefined), ...tooltipOpts },
+        });
+        return cfg.chart;
+    }
+
+    // ── Rebuild all charts on filter change ──
+    function rebuildAll() {
+        registry.forEach(cfg => {
+            if (cfg.chart) cfg.chart.destroy();
+            if (cfg.type === "bar") buildBar(cfg);
+            else if (cfg.type === "line") buildLine(cfg);
+            else if (cfg.type === "roi") buildRoi(cfg);
         });
     }
 
     /* ═══════════════════════════════════════
        BSC FINANZEN
        ═══════════════════════════════════════ */
-    barChart("chart-ebitda", DATA.ebitda, C.blue, C.blueFill, { target: TARGETS.ebitda });
-    lineChart("chart-ltv", DATA.ltv, C.amber, C.amberFill, { min: 35, target: TARGETS.ltv });
+    barChart("chart-ebitda", "ebitda", C.blue, C.blueFill, { target: TARGETS.ebitda });
+    lineChart("chart-ltv", "ltv", C.amber, C.amberFill, { min: 35, target: TARGETS.ltv });
 
-    // ROI – colour-coded bars + target
-    new Chart(document.getElementById("chart-roi"), {
-        type: "bar",
-        data: {
-            labels: labelsT,
-            datasets: [{
-                label: "Ist-Wert",
-                data: [...DATA.roi, null],
-                backgroundColor: DATA.roi.map(v => v >= 0 ? C.greenFill : C.redFill).concat(["transparent"]),
-                borderColor: DATA.roi.map(v => v >= 0 ? C.green : C.red).concat(["transparent"]),
-                borderWidth: 1.5,
-                borderRadius: 6,
-            }, {
-                label: "Ziel 2028",
-                data: [...DATA.roi.map(() => null), TARGETS.roi],
-                backgroundColor: C.targetFill,
-                borderColor: C.target,
-                borderWidth: 2,
-                borderDash: [5, 3],
-                borderRadius: 6,
-            }],
-        },
-        options: { scales: gridOpts(undefined), ...tooltipOpts },
-    });
+    // ROI – special colour-coded
+    const roiCfg = { id: "chart-roi", type: "roi", opts: {} };
+    registry.push(roiCfg);
+    buildRoi(roiCfg);
 
     /* ═══════════════════════════════════════
        BSC KUNDEN
        ═══════════════════════════════════════ */
-    lineChart("chart-csi", DATA.csi, C.green, C.greenFill, { min: 55, target: TARGETS.csi });
-    lineChart("chart-vacancy", DATA.vacancy, C.red, C.redFill, { min: 1.5, target: TARGETS.vacancy });
-    barChart("chart-rent", DATA.rent, C.cyan, C.cyanFill, { target: TARGETS.rent });
+    lineChart("chart-csi", "csi", C.green, C.greenFill, { min: 55, target: TARGETS.csi });
+    lineChart("chart-vacancy", "vacancy", C.red, C.redFill, { min: 1.5, target: TARGETS.vacancy });
+    barChart("chart-rent", "rent", C.cyan, C.cyanFill, { target: TARGETS.rent });
 
     /* ═══════════════════════════════════════
        BSC INTERNE GESCHÄFTSPROZESSE
        ═══════════════════════════════════════ */
-    barChart("chart-maint-total", DATA.maintTotal, C.purple, C.purpleFill, { target: TARGETS.maintTotal });
-    barChart("chart-maint-sqm", DATA.maintSqm, C.amber, C.amberFill, { min: 10, target: TARGETS.maintSqm });
-    lineChart("chart-co2", DATA.co2, C.green, C.greenFill, { min: 20, target: TARGETS.co2 });
+    barChart("chart-maint-total", "maintTotal", C.purple, C.purpleFill, { target: TARGETS.maintTotal });
+    barChart("chart-maint-sqm", "maintSqm", C.amber, C.amberFill, { min: 10, target: TARGETS.maintSqm });
+    lineChart("chart-co2", "co2", C.green, C.greenFill, { min: 20, target: TARGETS.co2 });
 
     /* ═══════════════════════════════════════
        BSC MITARBEITER & NACHHALTIGKEIT
        ═══════════════════════════════════════ */
-    lineChart("chart-employee-sat", DATA.employeeSat, C.cyan, C.cyanFill, { min: 0, target: TARGETS.employeeSat });
-    barChart("chart-units-per-emp", DATA.unitsPerEmp, C.blue, C.blueFill, { min: 30, target: TARGETS.unitsPerEmp });
-    barChart("chart-newbuild", DATA.newBuild, C.pink, C.pinkFill, { target: TARGETS.newBuild });
+    lineChart("chart-employee-sat", "employeeSat", C.cyan, C.cyanFill, { min: 0, target: TARGETS.employeeSat });
+    barChart("chart-units-per-emp", "unitsPerEmp", C.blue, C.blueFill, { min: 30, target: TARGETS.unitsPerEmp });
+    barChart("chart-newbuild", "newBuild", C.pink, C.pinkFill, { target: TARGETS.newBuild });
+
+    // ── Filter UI ──
+    const filterBar = document.getElementById("year-filter");
+    if (filterBar) {
+        // Year toggle buttons
+        ALL_LABELS.forEach(year => {
+            const btn = document.createElement("button");
+            btn.className = "filter-btn active";
+            btn.textContent = year;
+            btn.dataset.year = year;
+            btn.addEventListener("click", () => {
+                if (activeYears.has(year)) {
+                    activeYears.delete(year);
+                    btn.classList.remove("active");
+                } else {
+                    activeYears.add(year);
+                    btn.classList.add("active");
+                }
+                rebuildAll();
+            });
+            filterBar.appendChild(btn);
+        });
+
+        // Target toggle
+        const tBtn = document.createElement("button");
+        tBtn.className = "filter-btn target-btn active";
+        tBtn.textContent = "Ziel 2028";
+        tBtn.addEventListener("click", () => {
+            showTarget = !showTarget;
+            tBtn.classList.toggle("active", showTarget);
+            rebuildAll();
+        });
+        filterBar.appendChild(tBtn);
+
+        // Separator + preset buttons
+        const sep = document.createElement("span");
+        sep.className = "filter-sep";
+        sep.textContent = "|";
+        filterBar.appendChild(sep);
+
+        // Preset: All years
+        const allBtn = document.createElement("button");
+        allBtn.className = "filter-btn preset";
+        allBtn.textContent = "Alle";
+        allBtn.addEventListener("click", () => {
+            ALL_LABELS.forEach(y => activeYears.add(y));
+            filterBar.querySelectorAll(".filter-btn[data-year]").forEach(b => b.classList.add("active"));
+            rebuildAll();
+        });
+        filterBar.appendChild(allBtn);
+
+        // Preset: Crisis years
+        const crisisBtn = document.createElement("button");
+        crisisBtn.className = "filter-btn preset crisis";
+        crisisBtn.textContent = "⚡ Krise 2022–2023";
+        crisisBtn.addEventListener("click", () => {
+            const crisisYears = [2021, 2022, 2023, 2024];
+            ALL_LABELS.forEach(y => {
+                if (crisisYears.includes(y)) activeYears.add(y);
+                else activeYears.delete(y);
+            });
+            filterBar.querySelectorAll(".filter-btn[data-year]").forEach(b => {
+                b.classList.toggle("active", activeYears.has(Number(b.dataset.year)));
+            });
+            rebuildAll();
+        });
+        filterBar.appendChild(crisisBtn);
+    }
 
     // ── Header date ──
     document.getElementById("header-date").textContent =
