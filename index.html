@@ -432,6 +432,7 @@ body {
 
     // ── Data ──
     const labels = [2019, 2020, 2021, 2022, 2023, 2024, 2025];
+    const labelsT = [...labels, "Ziel 2028"];
 
     const DATA = {
         ebitda:       [1760.1, 1909.8, 2254.4, 2606.1, 2583.8, 2641.8, 2800.8],
@@ -448,6 +449,14 @@ body {
         unitsPerEmp:  [47.8,   46.1,   40.1,   51.3,   51.7,   50.9,   47.8],
     };
 
+    // Zielwerte 2028
+    const TARGETS = {
+        ebitda: 3200, ltv: 40, roi: 5,
+        csi: 73, vacancy: 2.0, rent: 4.0,
+        maintTotal: 2100, maintSqm: 26, newBuild: 3000,
+        employeeSat: 0.77, co2: 25, unitsPerEmp: 47.5,
+    };
+
     // ── Palette ──
     const C = {
         blue:      "#4f8cff",  blueFill:  "rgba(79,140,255,.15)",
@@ -457,6 +466,7 @@ body {
         red:       "#f87171",  redFill:   "rgba(248,113,113,.12)",
         cyan:      "#22d3ee",  cyanFill:  "rgba(34,211,238,.12)",
         pink:      "#f472b6",  pinkFill:  "rgba(244,114,182,.12)",
+        target:    "#ffffff",  targetFill:"rgba(255,255,255,.06)",
         muted:     "#8a94a8",
         grid:      "rgba(255,255,255,.06)",
     };
@@ -491,70 +501,114 @@ body {
                 borderWidth: 1,
                 cornerRadius: 10,
                 padding: 14,
-                displayColors: false,
+                displayColors: true,
                 animation: { duration: 150 },
+            },
+            legend: {
+                display: true,
+                labels: { boxWidth: 10, padding: 12, usePointStyle: true,
+                    filter: (item) => item.text !== undefined },
             },
         },
     };
 
-    // ── Helper builders ──
-    function lineChart(id, data, color, fill, opts = {}) {
-        const l = opts.labels || labels;
+    // ── Helper: build datasets with optional Ziel 2028 ──
+    function barChart(id, data, color, fillColor, opts = {}) {
+        const t = opts.target;
+        const l = t !== undefined ? labelsT : (opts.labels || labels);
+        const mainData = t !== undefined ? [...data, null] : data;
+        const datasets = [{
+            label: "Ist-Wert",
+            data: mainData,
+            backgroundColor: mainData.map(() => fillColor || color),
+            borderColor: color,
+            borderWidth: 1.5,
+            borderRadius: 6,
+            hoverBackgroundColor: color,
+        }];
+        if (t !== undefined) {
+            datasets.push({
+                label: "Ziel 2028",
+                data: [...data.map(() => null), t],
+                backgroundColor: C.targetFill,
+                borderColor: C.target,
+                borderWidth: 2,
+                borderDash: [5, 3],
+                borderRadius: 6,
+            });
+        }
         return new Chart(document.getElementById(id), {
-            type: "line",
-            data: {
-                labels: l,
-                datasets: [{
-                    data,
-                    borderColor: color,
-                    backgroundColor: fill,
-                    borderWidth: 2.5,
-                    pointRadius: 4,
-                    pointHoverRadius: 7,
-                    pointBackgroundColor: color,
-                    tension: .35,
-                    fill: true,
-                }],
-            },
-            options: { scales: gridOpts(opts.min ?? undefined), ...tooltipOpts },
+            type: "bar",
+            data: { labels: l, datasets },
+            options: { scales: gridOpts(opts.min ?? 0), ...tooltipOpts },
         });
     }
 
-    function barChart(id, data, color, fillColor, opts = {}) {
-        const l = opts.labels || labels;
+    function lineChart(id, data, color, fill, opts = {}) {
+        const t = opts.target;
+        const l = t !== undefined ? labelsT : (opts.labels || labels);
+        const mainData = t !== undefined ? [...data, null] : data;
+        const datasets = [{
+            label: "Ist-Wert",
+            data: mainData,
+            borderColor: color,
+            backgroundColor: fill,
+            borderWidth: 2.5,
+            pointRadius: 4,
+            pointHoverRadius: 7,
+            pointBackgroundColor: color,
+            tension: .35,
+            fill: true,
+        }];
+        if (t !== undefined) {
+            datasets.push({
+                label: "Ziel 2028",
+                data: [...data.map(() => null), t],
+                borderColor: C.target,
+                backgroundColor: C.targetFill,
+                borderWidth: 2,
+                borderDash: [5, 3],
+                pointRadius: 7,
+                pointHoverRadius: 9,
+                pointBackgroundColor: C.targetFill,
+                pointBorderColor: C.target,
+                pointBorderWidth: 2,
+                pointStyle: "crossRot",
+                fill: false,
+            });
+        }
         return new Chart(document.getElementById(id), {
-            type: "bar",
-            data: {
-                labels: l,
-                datasets: [{
-                    data,
-                    backgroundColor: data.map(() => fillColor || color),
-                    borderColor: color,
-                    borderWidth: 1.5,
-                    borderRadius: 6,
-                    hoverBackgroundColor: color,
-                }],
-            },
-            options: { scales: gridOpts(opts.min ?? 0), ...tooltipOpts },
+            type: "line",
+            data: { labels: l, datasets },
+            options: { scales: gridOpts(opts.min ?? undefined), ...tooltipOpts },
         });
     }
 
     /* ═══════════════════════════════════════
        BSC FINANZEN
        ═══════════════════════════════════════ */
-    barChart("chart-ebitda", DATA.ebitda, C.blue, C.blueFill);
-    lineChart("chart-ltv", DATA.ltv, C.amber, C.amberFill, { min: 35 });
+    barChart("chart-ebitda", DATA.ebitda, C.blue, C.blueFill, { target: TARGETS.ebitda });
+    lineChart("chart-ltv", DATA.ltv, C.amber, C.amberFill, { min: 35, target: TARGETS.ltv });
 
-    // ROI – colour-coded bars
+    // ROI – colour-coded bars + target
     new Chart(document.getElementById("chart-roi"), {
         type: "bar",
         data: {
-            labels,
+            labels: labelsT,
             datasets: [{
-                data: DATA.roi,
-                backgroundColor: DATA.roi.map(v => v >= 0 ? C.greenFill : C.redFill),
-                borderColor: DATA.roi.map(v => v >= 0 ? C.green : C.red),
+                label: "Ist-Wert",
+                data: [...DATA.roi, null],
+                backgroundColor: DATA.roi.map(v => v >= 0 ? C.greenFill : C.redFill).concat(["transparent"]),
+                borderColor: DATA.roi.map(v => v >= 0 ? C.green : C.red).concat(["transparent"]),
                 borderWidth: 1.5,
+                borderRadius: 6,
+            }, {
+                label: "Ziel 2028",
+                data: [...DATA.roi.map(() => null), TARGETS.roi],
+                backgroundColor: C.targetFill,
+                borderColor: C.target,
+                borderWidth: 2,
+                borderDash: [5, 3],
                 borderRadius: 6,
             }],
         },
@@ -564,23 +618,23 @@ body {
     /* ═══════════════════════════════════════
        BSC KUNDEN
        ═══════════════════════════════════════ */
-    lineChart("chart-csi", DATA.csi, C.green, C.greenFill, { min: 55 });
-    lineChart("chart-vacancy", DATA.vacancy, C.red, C.redFill, { min: 1.5 });
-    barChart("chart-rent", DATA.rent, C.cyan, C.cyanFill);
+    lineChart("chart-csi", DATA.csi, C.green, C.greenFill, { min: 55, target: TARGETS.csi });
+    lineChart("chart-vacancy", DATA.vacancy, C.red, C.redFill, { min: 1.5, target: TARGETS.vacancy });
+    barChart("chart-rent", DATA.rent, C.cyan, C.cyanFill, { target: TARGETS.rent });
 
     /* ═══════════════════════════════════════
        BSC INTERNE GESCHÄFTSPROZESSE
        ═══════════════════════════════════════ */
-    barChart("chart-maint-total", DATA.maintTotal, C.purple, C.purpleFill);
-    barChart("chart-maint-sqm", DATA.maintSqm, C.amber, C.amberFill, { min: 10 });
-    lineChart("chart-co2", DATA.co2, C.green, C.greenFill, { min: 25 });
+    barChart("chart-maint-total", DATA.maintTotal, C.purple, C.purpleFill, { target: TARGETS.maintTotal });
+    barChart("chart-maint-sqm", DATA.maintSqm, C.amber, C.amberFill, { min: 10, target: TARGETS.maintSqm });
+    lineChart("chart-co2", DATA.co2, C.green, C.greenFill, { min: 20, target: TARGETS.co2 });
 
     /* ═══════════════════════════════════════
        BSC MITARBEITER & NACHHALTIGKEIT
        ═══════════════════════════════════════ */
-    lineChart("chart-employee-sat", DATA.employeeSat, C.cyan, C.cyanFill, { min: 0 });
-    barChart("chart-units-per-emp", DATA.unitsPerEmp, C.blue, C.blueFill, { min: 30 });
-    barChart("chart-newbuild", DATA.newBuild, C.pink, C.pinkFill);
+    lineChart("chart-employee-sat", DATA.employeeSat, C.cyan, C.cyanFill, { min: 0, target: TARGETS.employeeSat });
+    barChart("chart-units-per-emp", DATA.unitsPerEmp, C.blue, C.blueFill, { min: 30, target: TARGETS.unitsPerEmp });
+    barChart("chart-newbuild", DATA.newBuild, C.pink, C.pinkFill, { target: TARGETS.newBuild });
 
     // ── Header date ──
     document.getElementById("header-date").textContent =
