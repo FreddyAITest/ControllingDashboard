@@ -257,20 +257,20 @@
        ═══════════════════════════════════════ */
     lineChart("chart-csi", "csi", C.green, C.greenFill, { min: 55, target: TARGETS.csi });
     lineChart("chart-vacancy", "vacancy", C.red, C.redFill, { min: 1.5, target: TARGETS.vacancy });
-    barChart("chart-rent", "rent", C.cyan, C.cyanFill, { target: TARGETS.rent });
+    lineChart("chart-rent", "rent", C.cyan, C.cyanFill, { target: TARGETS.rent });
 
     /* ═══════════════════════════════════════
        BSC INTERNE GESCHÄFTSPROZESSE
        ═══════════════════════════════════════ */
     barChart("chart-maint-total", "maintTotal", C.purple, C.purpleFill, { target: TARGETS.maintTotal });
-    barChart("chart-maint-sqm", "maintSqm", C.amber, C.amberFill, { min: 10, target: TARGETS.maintSqm });
+    lineChart("chart-maint-sqm", "maintSqm", C.amber, C.amberFill, { min: 10, target: TARGETS.maintSqm });
     lineChart("chart-co2", "co2", C.green, C.greenFill, { min: 20, target: TARGETS.co2 });
 
     /* ═══════════════════════════════════════
        BSC MITARBEITER & NACHHALTIGKEIT
        ═══════════════════════════════════════ */
     lineChart("chart-employee-sat", "employeeSat", C.cyan, C.cyanFill, { min: 0, target: TARGETS.employeeSat });
-    barChart("chart-units-per-emp", "unitsPerEmp", C.blue, C.blueFill, { min: 30, target: TARGETS.unitsPerEmp });
+    lineChart("chart-units-per-emp", "unitsPerEmp", C.blue, C.blueFill, { min: 30, target: TARGETS.unitsPerEmp });
     barChart("chart-newbuild", "newBuild", C.pink, C.pinkFill, { target: TARGETS.newBuild });
 
     // ── Filter UI ──

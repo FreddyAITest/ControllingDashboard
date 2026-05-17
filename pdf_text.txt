@@ -1,0 +1,2932 @@
+--- PAGE 1 ---
+Controlling 
+Univ.-Prof. Dr. Matthias Meyer 
+Institute of Management Accounting and Simulation
+Hamburg, SoSe26
+
+--- PAGE 2 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Kapitel 2
+Kapitel 2
+2
+Inhaltsverzeichnis
+1. Controlling und Controllership
+2.1 Grundlagen der Informationsversorgung 
+    2.2 Kennzahlen und Kennzahlensysteme
+    2.3 Berichtswesen
+    2.4 Gestaltung der Informationsversorgung 
+    2.5 Zusammenfassung - Informationsversorgung
+2. Informationsversorgung 
+3. Planung und Kontrolle 
+3.1 Grundlagen Planung und Kontrolle 
+    3.2 Operative Planung / Budgetierung
+    3.3 Mittelfristplanung
+ 3.3.1 Einführung 
+ 3.3.2 Struktur des taktischen Planungsprozesses 
+ 3.3.3 Instrumente der taktischen Planung 
+ 3.3.4 Zusammenfassung – Mittelfristplanung
+    3.4 Strategische Planung 
+ 3.4.1 Einführung 
+ 3.4.2 Struktur des strategischen Planungsprozesses 
+ 3.4.3 Instrumente im strategischen Planungsprozess 
+ 3.4.4 Zusammenfassung - Strategische Planung 
+ 
+--- PAGE 3 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Kapitel 2
+Kapitel 2
+3
+Inhaltsverzeichnis
+4. Koordination als Controllingaufgabe
+4.1 Arbeitsteilung und Koordinationsbedarf 
+    4.2 Bereitstellung von Koordinationsinstrumenten durch das Controlling 
+ 4.2.1 Controlling und Koordinationsaufgaben 
+ 4.2.2 Wertorientierte Kennzahlen 
+ 4.2.3 Anreizsysteme 
+ 4.2.4 Verrechnungspreise 
+    4.3 Zusammenfassung – Koordination als Controllingaufgabe 
+5. Bereichscontrolling 
+5.1 Bereichscontrolling 
+    5.2  Risikocontrolling 
+    5.3 Projektcontrolling 
+ 5.3.1 Allgemein 
+ 5.3.2 Strategisches Projektcontrolling 
+ 5.3.3 Operatives Projektcontrolling 
+--- PAGE 4 ---
+Univ.-Prof. Dr. Matthias Meyer 
+4
+Übersicht
+Controlling & Controllership
+Bereichscontrolling
+Informations
+management 
+Planung und 
+Kontrolle
+Koordination
+Risiko-
+controlling
+Strategisches 
+Projekt-
+controlling
+Operatives 
+Projekt-
+controlling
+Marketing 
+Controlling, Logistik 
+Controlling ... 
+--- PAGE 5 ---
+Kapitel 2
+Informationsversorgung
+5
+--- PAGE 6 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Am Ende des zweiten Kapitels können Sie 
+• … den Unterschied zwischen Daten, Information, Wissen erläutern,
+• … verhaltensorientierte Aspekte der Informationsnutzung erklären,
+• … verschiedene Kennzahlen und -systeme erläutern und deren Vor - und Nachteile einordnen,
+• … (wesentliche) Stellhebel der Gestaltung des Berichtswesen und erläutern und diesbezüglich 
+Empfehlungen aussprechen.
+• … Gestaltungsempfehlungen zur Informationsversorgung ableiten.
+6
+Lernziele Kapitel 2
+--- PAGE 7 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Kapitel 2
+Kapitel 2
+7
+Inhaltsverzeichnis
+1. Controlling und Controllership
+2.1 Grundlagen der Informationsversorgung 
+    2.2 Kennzahlen und Kennzahlensysteme
+    2.3 Berichtswesen
+    2.4 Gestaltung der Informationsversorgung 
+    2.5 Zusammenfassung - Informationsversorgung
+2. Informationsversorgung 
+3. Planung und Kontrolle 
+3.1 Grundlagen Planung und Kontrolle 
+    3.2 Operative Planung / Budgetierung
+    3.3 Mittelfristplanung
+ 3.3.1 Einführung 
+ 3.3.2 Struktur des taktischen Planungsprozesses 
+ 3.3.3 Instrumente der taktischen Planung 
+ 3.3.4 Zusammenfassung – Mittelfristplanung
+3.4 Strategische Planung 
+ 3.4.1 Einführung 
+ 3.4.2 Struktur des strategischen Planungsprozesses 
+ 3.4.3 Instrumente im strategischen Planungsprozess 
+ 3.4.4 Zusammenfassung - Strategische Planung 
+ 
+2.1 Grundlagen der Informationsversorgung 
+--- PAGE 8 ---
+Univ.-Prof. Dr. Matthias Meyer 
+8
+Informationsversorgung und Controlling
+„In God we trust, 
+all the others 
+bring data.“
+William Edwards 
+Deming, US, statistician 
+and pioneer in quality 
+management (1900-
+1993)
+--- PAGE 9 ---
+Univ.-Prof. Dr. Matthias Meyer 
+9
+ICV-Studie: Controller müssen viele unterschiedliche Aufgaben 
+parallel erfüllen – Informationsversorgung ist und bleibt dabei 
+wichtig 
+Quelle: Weber et al. (2006)
+
+--- PAGE 10 ---
+Univ.-Prof. Dr. Matthias Meyer 
+10
+Wo leisten Controller Führungsunterstützung und wie wichtig 
+ist die Informationsversorgung? – Empirische Ergebnisse
+Quelle: Weber/Bauer (2001)
+Manager-
+sicht
+Controller-
+sicht
+Relative Wichtigkeit der S chritte im Managementprozes s
+100%
+KontrolleAnalyse
+MaßnahmenInformationZielbildung
+16%
+18% 18%
+14%
+24%
+23%29% 18 %
+16%
+0%
+Entscheidung
+24%
+--- PAGE 11 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Wie wichtig sind Zahlen für die Führung eines Unternehmens?  
+Die Ergebnisse einer empirischen Studie aus Kanada
+11
+Bedeutung der Informationsversorgungsaufgabe der Controller in der Praxis 
+Erfolgskategorien:
+ wahrgenommen als ein 
+Branchenführer in den letzten 3 
+Jahren 
+ im ersten Drittel der finanziell 
+besten Unternehmen 
+ letzter bedeutender kultureller 
+oder operativer Wandel als 
+erfolgreich eingestuft 
+100%
+80%
+60%
+40%
+20%
+97%
+83%
+74%
+54%52%44%
+„Measurement-Managed 
+Organizations“
+„Non-Measurement-
+Managed Organizations“
+Anteil der Unternehmen in den 
+jeweiligen Erfolgskategorien
+Quelle: Lingle/Schieman (1996)
+--- PAGE 12 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Informationsangebot, -nachfrage und -bedarf im Controlling
+12
+Aufgaben
+Ziele
+Rahmen-
+bedingungen
+Sender
+Empfänger 
+(Aufgaben-
+träger)
+॥
+।
+।।।
+Angebot Nachfrage
+Bedarf
+6 5 7
+4
+2 3
+1. Informationen, die weder angeboten noch 
+nachgefragt werden 
+2. Informationen, die angeboten, aber nicht 
+nachgefragt werden
+3. Informationen, die nachgefragt, aber nicht 
+angeboten werden 
+4. Informationen, die angeboten und 
+nachgefragt werden 
+5. Nachrichten, die angeboten und nachgefragt 
+werden, aber nicht notwendig sind 
+6. Nachrichten, die angeboten werden, aber 
+weder nachgefragt werden noch notwendig 
+sind 
+7. Nachrichten, die nachgefragt werden, aber 
+weder angeboten noch notwendig sind
+Quelle: Angelehnt an Horvárth/Gleich/Seiter (2020, S.198). Controlling.
+1
+--- PAGE 13 ---
+Univ.-Prof. Dr. Matthias Meyer 
+13
+Überblick über laufende „kaufmännische “ 
+Informationssysteme
+Elemente der Informationsversorgung durch Controller
+Kostenrechnung
+Erlösrechnung
+Leistungsrechnung
+Buchhaltung
+Strategische Frühaufklärung
+Lfd. monetäres Berichtswesen
+Monetäre Sonderberichte
+Kennzahlenberichte
+Finanz- und Liquiditätsstatistik
+Nicht-monetäre Berichte
+Erfassungssysteme Auswertungen
+--- PAGE 14 ---
+Univ.-Prof. Dr. Matthias Meyer 
+14
+Für die Informationsversorgung wird in der Praxis vor allem auf die 
+monetären Größen innerhalb der externen und internen 
+Rechnungslegung zurückgegriffen
+Externe Rechnungslegung Interne Rechnungslegung
+Teilsysteme
+steuerrechtlich handelsrechtlich Kalkulations-
+rechnung
+Erfolgs-
+rechnung Finanzrechnung Investitions-
+rechnung
+Einzelabschluss Konzernabschluss
+Adressaten Fiskus Eigen- und Fremdkapitalgeber, Mitarbeiter, Kunden, Lieferanten, 
+sonstige interessierte Öffentlichkeit
+Unternehmensleitung, Mitarbeiter, ggf. externe Adressaten (Kunden, 
+Kooperationspartner uä.)
+Grundlagen EStG, GoB HGB, GoB HGB, GoB, DRS
+Internationale 
+Rechnungslegungsgrundsätze (z.B. 
+IFRS,US-GAAP), DRS
+Interne Richtlinien (Orientierung an 
+Verbandsempfehlungen), ggf. LSP Interne Richtlinien
+zeitlicher 
+Bezug
+Laufend, einperiodig
+Laufend,   ein- 
+oder 
+mehrperiodig
+Fallweise, i.d.R. 
+mehrperiodig
+sachlicher 
+Bezug Gesamte Geschäftstätigkeit Sachzielbezogene 
+Geschäftstätigkeit
+Gesamte 
+Geschäfts-
+tätigkeit
+Investitions-
+projekte
+Rechen-
+werke Steuerbilanz Bilanz, GuV Konzernbilanz, -GuV
+(Konzern-) 
+Kapitalfluss-
+rechnung
+Kosten- und Erlösrechnung (zB.: 
+Vollkostenrechnung, Plankosten-
+rechnung, Deckungs-
+beitragsrechnung)
+Liquiditäts-, 
+Finanzplanungs-, 
+Kapitalbedarfs-
+rechnungen
+Ermittlung von 
+Kapitalwert o. 
+internem Zinsfuß
+Rechengröß
+en
+Betriebsein-
+nahmen bzw.-
+ausgaben
+Erträge bzw. Aufwendungen Ein- bzw. 
+Auszahlungen Erlöse bzw. Kosten Ein- bzw. Auszahlungen (Einnahmen 
+bzw. Ausgaben)
+--- PAGE 15 ---
+Univ.-Prof. Dr. Matthias Meyer 
+15
+Data, Information, Knowledge, and Wisdom Hierarchy 
+(DIKW)
+Image originally published in the December 1982 issue of THE FUTURIST. Quelle: https://erealityhome.wordpress.com/2008/03/09/ the-origin-of-dikw-
+hierarchy/
+--- PAGE 16 ---
+Univ.-Prof. Dr. Matthias Meyer 
+16
+Begrifflich ist es sinnvoll zwischen „Daten“, „Information“ 
+und „Wissen“ zu unterscheiden
+Daten, Information und Wissen
+Quelle: Boisot/Canals (2004, S.48). Role of mental 
+models in the cognitive process. 
+--- PAGE 17 ---
+Univ.-Prof. Dr. Matthias Meyer 
+17
+Wissen kann in unterschiedlichen Formen vorliegen
+Formen und Repräsentationen von Wissen
+Quelle: Weber/ Schäffer (2020, S.85.)
+--- PAGE 18 ---
+Univ.-Prof. Dr. Matthias Meyer 
+18
+Wissen kann in unterschiedlichen Formen vorliegen
+Arten von Informationen
+Quelle: Weber/ Schäffer (2020, S.87.)
+Monetäre
+Informationen
+• Traditionell dem Controllerbereich zugeordnet bzw. im Einflussbereich des Controllers
+• Aufgrund gestiegener Komplexität und Dynamik allerdings häufig zu geringe Aktuallität  und zu 
+weit entfernt von den konkret zu beurteilenden und/oder anzustoßenden Aktivitäten
+• Beispiele: Kosten - und Erlösdaten
+Nicht-
+monetäre
+Informationen
+• Zusehends von größerer Bedeutung in der Informationsversorgung des Managements
+• Analyse des Zusammenspiels von monetären und nicht -monetären Steuerungsgrößen als 
+wichtige Aufgabe des Controllers
+• Beispiele: Mengen -, Zeit- und Qualitätsdaten
+--- PAGE 19 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Kapitel 2
+Kapitel 2
+19
+Inhaltsverzeichnis
+1. Controlling und Controllership
+2.1 Grundlagen der Informationsversorgung 
+    2.2 Kennzahlen und Kennzahlensysteme
+    2.3 Berichtswesen
+    2.4 Gestaltung der Informationsversorgung 
+    2.5 Zusammenfassung - Informationsversorgung
+2. Informationsversorgung 
+3. Planung und Kontrolle 
+3.1 Grundlagen Planung und Kontrolle 
+    3.2 Operative Planung / Budgetierung
+    3.3 Mittelfristplanung
+ 3.3.1 Einführung 
+ 3.3.2 Struktur des taktischen Planungsprozesses 
+ 3.3.3 Instrumente der taktischen Planung 
+ 3.3.4 Zusammenfassung – Mittelfristplanung
+3.4 Strategische Planung 
+ 3.4.1 Einführung 
+ 3.4.2 Struktur des strategischen Planungsprozesses 
+ 3.4.3 Instrumente im strategischen Planungsprozess 
+ 3.4.4 Zusammenfassung - Strategische Planung 
+ 
+2.2 Kennzahlen
+--- PAGE 20 ---
+Univ.-Prof. Dr. Matthias Meyer 
+20
+Kennzahlen wird allgemein eine zentrale Bedeutung für 
+das Controlling zuerkannt
+Begriffliche Grundlagen 
+Quelle: Weber/Schäffer (2020, S. 179 ff.)
+ 
+Definition Zweck
+Kennzahlen sind 
+quantitative Daten, die als 
+bewusste Verdichtung der 
+komplexen Realität über 
+zahlenmäßig erfassbare 
+betriebswirtschaftliche 
+Sachverhalte informieren 
+sollen.
+Kennzahlen dienen dazu, 
+schnell und prägnant 
+über ein ökonomisches 
+Aufgabenfeld zu 
+berichten, für das 
+prinzipiell eine Vielzahl 
+relevanter Einzel-
+informationen vorliegt, 
+deren Auswertung 
+jedoch für bestimmte 
+Informationsbedarfe zu 
+zeitintensiv und 
+aufwändig ist.
+Kennzahlen bauen auf 
+Basis
+• den kaufmännischen 
+Basissystemen 
+• der Leistungsrechnung 
+• prozessnahen 
+Systemen (wie etwa 
+Betriebsdaten-
+erfassungssystemen). 
+• fallweise erfassten 
+Daten (eher als 
+Ausnahme) auf.
+--- PAGE 21 ---
+Univ.-Prof. Dr. Matthias Meyer 
+21
+Für die Vielzahl der möglichen betrieblichen Kennzahlen 
+sind unterschiedliche Differenzierungen möglich
+Arten von Kennzahlen
+Quelle: Weber/Schäffer (2020, S. 179 ff.)
+lokal
+vs.
+global
+vorlaufend
+vs. 
+nachlaufend
+relativ
+vs. 
+absolut
+monetär
+vs.
+nicht-monetär
+Differenzierung 
+von 
+Kennzahlenarten
+Selbststudium A1
+Kennzahlen lassen sich für verschiedenste Unternehmensbereiche definieren (1)
+
+--- PAGE 22 ---
+Univ.-Prof. Dr. Matthias Meyer 
+22
+»Traditionelle« Kennzahlen bauen häufig unmittelbar auf 
+Daten der externen Rechnungslegung auf (1)
+Quelle: Weber/ Schäffer (2020, S. 182 ff.)
+Traditionelle Kennzahlen
+Umsatzrentabilität
+(Return on Sales)
+• Erfolg (nach Zinsaufwand und Steuern) plus Zinsaufwand / Umsatz (ROS)
+• Stellt die auf den Umsatz bezogene Gewinnspanne des Unternehmens dar – nach 
+Steuerzahlung und definiert diese aus Sicht der Eigen - und Fremdkapitalgeber
+Eigenkapital-
+rentabilität
+(Return on Equity)
+• Erfolg (nach Zinsaufwand und Steuern) / Eigenkapital (ROE)
+• Informiert über den relativ zum eingesetzten Kapital der Eigentümer erzielten Erfolg
+Gesamtkapital-
+rentabilität
+(Return on Assets)
+• Erfolg (nach Zinsaufwand und Steuern) plus Zinsaufwand / Gesamtkapital (ROA)
+• Macht eine Aussage über den relativen Erfolg bezogen auf das Gesamtkapital
+• (auch: »Return on Capital«, ROC)
+Return 
+on Capital 
+Employed
+• Weiterentwicklung des »Return on Capital« (ROCE)
+• Zählergröße: das operative Ergebnis vor Zinsaufwendungen
+• Nennergröße: das eingesetzte Kapital bereinigt um so genannte nichtzinstragende Schulden
+Return on  
+Investment
+• Erfolg (nach Zinsaufwand und nach Steuern) / Gesamtkapital (ROI)
+• Unterschied zur Gesamtkapitalrentabilität: keine Bereinigung der Erfolgsgröße um den 
+Zinsaufwand
+--- PAGE 23 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Traditionelle Kennzahlen im Überblick
+23
+»Traditionelle« Kennzahlen bauen häufig unmittelbar auf 
+Daten der externen Rechnungslegung auf (2)
+Quelle: Weber/ Schäffer (2020, S. 182 ff.)
+Traditionelle Kennzahlen
+»Cash Recovery 
+Rate«
+• Erwirtschafteter Cashflow aus laufender Geschäftstätigkeit / durchschnittliches
+Gesamtvermögen (CRR)
+»Earnings Before 
+Interest and Taxes«
+• Spiegelt als umfassendste Größe das Ergebnis der operativen Geschäftstätigkeit vor 
+Finanzergebnis und Steuern wider (EBIT)
+»Earnings Before 
+Interest, Taxes, and 
+Amortization«
+• Filtert den Einfluss von abzuschreibenden Geschäfts - oder Firmenwerten – die als 
+Sondertatbestände interpretiert werden können – heraus (EBITA)
+»Earnings Before 
+Interest, Taxes, 
+Amortization 
+and Depreciation«
+• Eliminiert die planmäßigen Abschreibungen auf Sachanlagen
+• Verfolgt das Ziel, Einflüsse unterschiedlicher Abschreibungsmethoden auf das Ergebnis zu 
+vermeiden (EBITDA)
+Selbststudium A2
+--- PAGE 24 ---
+Univ.-Prof. Dr. Matthias Meyer 
+24
+Die Höhe der durchschnittlichen Rentabilität ist 
+branchenabhängig
+Quelle: Weber/ Schäffer (2020, S. 184.)
+Durchschnitts-
+werte in 
+ausgewählten 
+Branchen in 2015 
+(basierend auf 
+Angaben der 
+Bundesbank)
+--- PAGE 25 ---
+Univ.-Prof. Dr. Matthias Meyer 
+25
+Ergebnisse des WHU Controller Panel
+Quelle: Schäffer/Weber ( 2016b, S.10), zitiert nach Weber/ Schäffer (2020, S. 184.)
+Top Managern in 
+der Praxis 
+regelmäßig zur 
+Verfügung 
+gestellte 
+Kennzahlen 
+(Schäffer/Weber 
+2016b,S.10)
+--- PAGE 26 ---
+Univ.-Prof. Dr. Matthias Meyer 
+26
+Es können unterschiedliche Funktionen von Kennzahlen 
+unterschieden werden, die teils separat, teils miteinander 
+verbunden Nutzen stiften
+Funktionen von Kennzahlen 
+Quelle: Weber/ Schäffer ( 2020, S.179 ff.)
+Anregungsfunktion
+Operationalisierungsfunktion
+Vorgabefunktion
+Steuerungsfunktion
+Kontrollfunktion
+Höherer Erfolg von 
+»Measurement
+-managed 
+Organizations« 
+im Vergleich zu 
+Unternehmen, 
+die diese 
+Eigenschaft 
+nicht 
+aufweisen
+--- PAGE 27 ---
+Univ.-Prof. Dr. Matthias Meyer 
+27
+Die Eigenkapitalrentabilität erfüllt die Funktionen von 
+Kennzahlen bezogen auf das Gesamtunternehmen
+Beispiel: Eigenkapitalrentabilität
+Gewinn
+Eigenkapital
+Steuerungsfunktion:
+➢ Entscheidungsgrundlage für 
+rentabilitätssteigernde 
+Maßnahmen
+Vorgabefunktionen:
+➢ Verwendung als (Gesamt-) 
+Rentabilitätszielgrößen für 
+Unternehmen, Formulierung von 
+Mindestgewinnanforderungen
+Kontrollfunktion:
+➢ Messgröße der Ist-
+Unternehmensrentabilität
+Operationalisierungsfunktion:
+➢  Konkretisierung der 
+Gewinnzielsetzungen des 
+Unternehmens
+Anregungsfunktion:
+➢ Erkennen von Auffälligkeiten/ 
+Veränderungen bzgl. 
+Gewinnzielsetzung
+--- PAGE 28 ---
+Univ.-Prof. Dr. Matthias Meyer 
+28
+Der Einsatz von Kennzahlen in der Praxis will gelernt sein
+Beispiel: ROI als Grundlage der Managerentlohnung
+Inv. 1
+RoI
+50 %
+Inv. 2
+RoI
+40 %
+Inv. 3
+RoI
+30 %
+Inv. 4
+RoI
+20 %
+Entlohnungsschema:
+Fixgehalt + Prämie * (1 + RoI)
+Return on Investment
+Investment
+Beispiel:
+100.000 + 20.000 * (1 + x)
+Maximale Entlohnung bei 
+Realisierung des höchsten Projekts
+100.000 + 20.000 * (1 + 50 %)
+Durchschn. 50 %
+Durchschn. 42 %
+Kapitalkosten 
+15 %
+Volumen 
+20.000
+Volumen 
+80.000 .... ....
+Der Einsatz 
+des ROI als 
+Entlohnuns-
+basis führt 
+zu einer 
+Situation der 
+Unter-
+investition
+--- PAGE 29 ---
+Univ.-Prof. Dr. Matthias Meyer 
+29
+Die gewünschten Anreize können mit einem 
+geeigneten Entlohnungsschema gesetzt werden
+Beispiel: Gewinn nach Kapitalkosten
+Inv. 1
+RoI
+50 %
+Inv. 2
+RoI
+40 %
+Inv. 3
+RoI
+30 %
+Inv. 4
+RoI
+20 %
+Entlohnungsschema:
+Fixgehalt + 10% x [Gewinn nach Kap. -Kst.]
+Return on Investment
+Investment
+Beispiel:
+100.000 + 10% x [(50 % - 15 %) * 20.000 + (40 % - 15 
+%) * 80.000 + ....  + ....]
+Kapitalkosten 
+15 %
+Volumen 
+20.000
+Volumen 
+80.000 .... ....
+Das aus Sicht des Unternehmens optimale Produktionsprogramm wird realisiert.
+Selbststudium A3
+Exkurs: Wertorientierte Kennzahlen
+
+--- PAGE 30 ---
+Univ.-Prof. Dr. Matthias Meyer 
+30
+Die Komplexitätsreduktion durch die Kennzahlen 
+verursacht gleichzeitig ein Risiko bei ihrer Interpretation
+• Komplexitätsreduktion stellt Sachverhalte sachlogisch nicht richtig dar, Sachverhalte sind in der Realität 
+wesentlicher komplexer
+• Überbetonung der quantitativen Komponenten
+• Gefahr des opportunistischen Ausnutzens der Komplexitätsreduktion, Optimierung der Kennzahlen ohne 
+Optimierung der gesamtunternehmerischen Zielsetzung
+• Auf der Basis einer einzelnen Kennzahl ist kein angemessenes Bild vom zugrunde liegenden 
+betriebswirtschaftlichen Sachverhalt zu gewinnen
+• Großer Interpretationsspielraum einzelner Kennzahlen
+Grenzen einer Kennzahl
+Lösung: Kennzahlensysteme
+--- PAGE 31 ---
+tuhh.de
+Dankeschön
+Prof. Dr. Matthias Meyer 
+Institute of Management 
+Accounting and Simulation
+--- PAGE 32 ---
+Kapitel 2.1 Informationsversorgung & 
+2.2 Kennzahlen – 
+Appendix zum Selbststudium
+32
+--- PAGE 33 ---
+Univ.-Prof. Dr. Matthias Meyer 
+• Warum spielt die Informationsversorgung eine große Rolle im Controlling?
+• In welchen Formen kann Wissen vorliegen?
+• Was wird unter ‚kognitiver Verzerrung ‘ verstanden? Nennen und erläutern Sie Biases die bei einem 
+Entscheidungsprozess entstehen können.
+• Was wird unter dem Begriff ‚Kennzahl‘ verstanden? 
+• Welche Arten von Kennzahlen werden unterschieden? 
+• Welche Funktionen erfüllen Kennzahlen?
+• Welche Risiken sind zu berücksichtigen bei der Verwendung von Kennzahlen? Erläutern Sie die 
+Grenzen bei der Nutzung von Kennzahlen. 33
+2.1 Grundlagen der Informationsversorgung
+2.2 Kennzahlen
+WIEDERHOLUNGSFRAGEN - VL
+--- PAGE 34 ---
+Univ.-Prof. Dr. Matthias Meyer 
+34
+Kennzahlen lassen sich für verschiedenste 
+Unternehmensbereiche definieren (1)
+Quelle: Weber/Schäffer (2020, S. 182 ff.)
+Selbststudium
+• Finanzkennzahlen
+- Return on Investment [%]: Erfolg/Investiertes Kapital x 100
+- Deckungsbeitrag [EURO]: Umsatzerlöse − Einzelkosten − variable Kosten
+- Kapitalumschlag: Umsatz/Investiertes Kapital
+• Markt- und Kundenkennzahlen
+− Marktanteil [%]: Umsatz/Umsatzvolumen Gesamtmarkt x 100
+− Kostenüberwälzungsgrad [%]: Preiserhöhung/Kostensteigerung x 100
+− Kundenakquisitionsrate [%]: Anzahl neuer Kunden/Anzahl alter Kunden x 100
+• Prozesskennzahlen
+− Fehlerquote [%]: Ausschuss der Periode/Produktionsmenge der Periode x 100
+− Kapazitätsauslastung [%]: tatsächliche Maschinenlaufzeit/mögliche Maschinenlaufzeit x 100
+− Manufacturing Cycle Effectiveness: Be - oder Verarbeitungszeit/Durchlaufzeit (mit Durchlaufzeit = Be - 
+oder Verarbeitungszeit + Prüfzeit + Transportzeit + Warte - oder Lagerungszeit)
+--- PAGE 35 ---
+Univ.-Prof. Dr. Matthias Meyer 
+35
+Kennzahlen lassen sich für verschiedenste 
+Unternehmensbereiche definieren ( 2)
+Quelle: Weber/Schäffer (2020, S. 182 ff.)
+Selbststudium
+• Mitarbeiterkennzahlen
+− Krankenstand [%]: Zahl krankheitsbedingter Ausfalltage/Jahresmenge x 100
+− Fluktuationsquote [%]: Ausgeschiedene Mitarbeiter je Periode/Durchschnittliche Mitarbeiterzahl x 100  
+− Mitarbeiterproduktivität [EURO]: Erfolg/durchschnittliche Mitarbeiterzahl 
+• Innovationskennzahlen
+− Innovationsrate [%]: Umsatz mit neu eingeführten Produkten/Gesamtumsatz x 100
+− Forschungsintensität [%]: F & E Aufwand/Umsatz x 100
+− Vorschlagsquote: Anzahl der Verbesserungsvorschläge/Mitarbeiterzahl
+--- PAGE 36 ---
+Univ.-Prof. Dr. Matthias Meyer 
+36
+Traditionelle Kennzahlen im Überblick
+Quelle: Weber/Bramsemann/Heineke/Hirsch (2017, S90), zitiert nach Weber/Schäffer (2020, S.197.)
+Selbststudium
+
+--- PAGE 37 ---
+Univ.-Prof. Dr. Matthias Meyer 
+37
+Exkurs: Wertorientierte Kennzahlen
+Selbststudium
+• Orientierung am Unternehmenswert (statt Gewinn)
+• Entstanden aus dem Shareholder -Value-Ansatz und der regelmäßigen Kritik an gewinnorientierten 
+Kennzahlen wie etwa dem ROI
+• Beispiele:
+− DCF
+− EVA
+− CVA/CFROI
+• Entscheidender Vorteil unternehmenswertorientierter Kennzahlen ist ihre Berücksichtigung der Kapitalkosten 
+(„Probleme der Über - oder Unterinvestition “)
+• Nachteil: Hohe Komplexität der Kennzahlen
+--- PAGE 38 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Review Articles : 
+Vorlesungsbegleitendes Nachschlagewerk: 
+Weber/Schäffer ( 2022), S. 87-102.
+Weber/Schäffer ( 2022), S. 179-185 (bis inkl. Kapitel 7.3.1.)
+38
+Zusatzmaterial
+Selbststudium
+--- PAGE 39 ---
+Controlling 
+Prof. Dr. Matthias Meyer 
+Institute of Management Accounting and Simulation
+31.03.2026
+
+--- PAGE 40 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Kapitel 2
+Kapitel 2
+40
+Inhaltsverzeichnis
+1. Controlling und Controllership
+2.1 Grundlagen der Informationsversorgung 
+    2.2 Kennzahlen und Kennzahlensysteme
+    2.3 Berichtswesen
+    2.4 Gestaltung der Informationsversorgung 
+    2.5 Zusammenfassung - Informationsversorgung
+2. Informationsversorgung 
+3. Planung und Kontrolle 
+3.1 Grundlagen Planung und Kontrolle 
+    3.2 Operative Planung / Budgetierung
+    3.3 Mittelfristplanung
+ 3.3.1 Einführung 
+ 3.3.2 Struktur des taktischen Planungsprozesses 
+ 3.3.3 Instrumente der taktischen Planung 
+ 3.3.4 Zusammenfassung – Mittelfristplanung
+    3.4 Strategische Planung 
+ 3.4.1 Einführung 
+ 3.4.2 Struktur des strategischen Planungsprozesses 
+ 3.4.3 Instrumente im strategischen Planungsprozess 
+ 3.4.4 Zusammenfassung - Strategische Planung 
+ 
+--- PAGE 41 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Kapitel 2
+Kapitel 2
+41
+Inhaltsverzeichnis
+4. Koordination als Controllingaufgabe
+4.1 Arbeitsteilung und Koordinationsbedarf 
+    4.2 Bereitstellung von Koordinationsinstrumenten durch das Controlling 
+ 4.2.1 Controlling und Koordinationsaufgaben 
+ 4.2.2 Wertorientierte Kennzahlen 
+ 4.2.3 Verrechnungspreise 
+ 4.2.4 Anreizsysteme 
+    4.3 Zusammenfassung – Koordination als Controllingaufgabe 
+5. Bereichscontrolling 
+5.1 Bereichscontrolling 
+    5.2  Risikocontrolling 
+    5.3 Projektcontrolling 
+ 5.3.1 Allgemein 
+ 5.3.2 Strategisches Projektcontrolling 
+ 5.3.3 Operatives Projektcontrolling 
+--- PAGE 42 ---
+Univ.-Prof. Dr. Matthias Meyer 
+42
+Übersicht
+Controlling & Controllership
+Bereichscontrolling
+Informations
+management 
+Planung und 
+Kontrolle
+Koordination
+Risiko-
+controlling
+Strategisches 
+Projekt-
+controlling
+Operatives 
+Projekt-
+controlling
+Marketing 
+Controlling, Logistik 
+Controlling ... 
+--- PAGE 43 ---
+Kapitel 2.2
+Kennzahlen & Kennzahlensysteme
+43
+--- PAGE 44 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Kapitel 2
+Kapitel 2
+44
+Inhaltsverzeichnis
+1. Controlling und Controllership
+2.1 Grundlagen der Informationsversorgung 
+    2.2 Kennzahlen und Kennzahlensysteme
+    2.3 Berichtswesen
+    2.4 Gestaltung der Informationsversorgung 
+    2.5 Zusammenfassung - Informationsversorgung
+2. Informationsversorgung 
+3. Planung und Kontrolle 
+3.1 Grundlagen Planung und Kontrolle 
+    3.2 Operative Planung / Budgetierung
+    3.3 Mittelfristplanung
+ 3.3.1 Einführung 
+ 3.3.2 Struktur des taktischen Planungsprozesses 
+ 3.3.3 Instrumente der taktischen Planung 
+ 3.3.4 Zusammenfassung – Mittelfristplanung
+3.4 Strategische Planung 
+ 3.4.1 Einführung 
+ 3.4.2 Struktur des strategischen Planungsprozesses 
+ 3.4.3 Instrumente im strategischen Planungsprozess 
+ 3.4.4 Zusammenfassung - Strategische Planung 
+ 
+Kennzahlensysteme
+--- PAGE 45 ---
+Univ.-Prof. Dr. Matthias Meyer 
+45
+Kennzahlensysteme bringen eine Vielzahl unterschiedlicher 
+Kennzahlen in einen sinnvollen Zusammenhang
+Definition: Kennzahlensysteme
+Unter einem Kennzahlensystem versteht man 
+•  eine Zusammenstellung von quantitativen Größen, die
+•  in einer sinnvollen Beziehung stehen, die
+− entweder mathematischer Natur (Rechensysteme) oder lediglich sachlogisch begründet 
+(Ordnungssystem) ist, und
+− dabei empirisch (d.h. aus der Unternehmenspraxis als Erfahrungswerte gewonnen) bestätigt oder 
+theoretisch behauptet (die zu Grunde liegenden Zusammenhänge sind abstrakt/theoretisch fixiert 
+worden, ein empirischer Beweis wurde nicht erbracht) wird.
+--- PAGE 46 ---
+Univ.-Prof. Dr. Matthias Meyer 
+46
+Looking back in time: Der DuPont -Chartroom
+
+--- PAGE 47 ---
+Univ.-Prof. Dr. Matthias Meyer 
+47
+Der ROI-Baum (DuPont -Kennzahlensystem) ist ein Beispiel 
+für die logische Herleitung eines Kennzahlensystems
+Zielsetzung: 
+• Operative Hebel auf die Veränderung des ROI werden deutlich 
+gemacht
+Probleme:
+• Vergangenheitsorientierung durch Anknüpfung an 
+buchhalterische Größen
+− Investitionen in immaterielles Vermögen
+− Buchwerteffekt
+• Manipulierbarkeit durch einperiodige  Ermittlung
+− Verzicht auf Investitionen
+− Off-Balance-Sheet-Finanzierungen
+• Keine objektive Zielvorgabe aus der Theorie herleitbar
+Beachte: 
+• „Return“ wird z.T. vor Zinsen (ROI = Gesamtkapitalrendite), z.T. 
+nach Zinsen definiert
+• Im zweiten Fall Einfluss auf ROI durch reine 
+Kapitalstrukturentscheidungen
+Return onInvestment
+(Rückfluss auf Investition)
+Earnings as a
+percent of sales
+(Umsatzren-
+tabilität)
+Sales
+(Umsatz-
+erlöse)
+Total
+investment
+(Gesamtver-
+mögen)
+Earnings
+(Gewinn)
+Sales
+(Umsatz-
+erlöse)
+Current
+assets
+(Umlauf-
+vermögen)
+Permanent
+investment
+(Anlagever-
+mögen)
+Sales
+(Umsatz-
+erlöse)
+Cost of sales
+(Kosten des
+Umsatzes)
+Turnover
+(Umschlags-
+häufigkeit)
+Quelle: Weber/ Schäffer (2020, S. 195.)
+--- PAGE 48 ---
+Univ.-Prof. Dr. Matthias Meyer 
+48
+DuPont-System interaktiv
+Ran an den Spread (sheet)!
+Selbststudium A3
+--- PAGE 49 ---
+Univ.-Prof. Dr. Matthias Meyer 
+49
+Der ROI-Baum - Gewonnene Einsichten 
+• Der ROI-Baum hilft Auswirkungen von Maßnahmen auf die Spitzenkennzahl 
+nachzuvollziehen
+• Typische Hebel, um den RoI zu verbessern sind
+− Working Capital reduzieren
+− Kosten reduzieren
+− Preise erhöhen
+• Zur Unternehmensbewertung oder der Bewertung einzelner Investitionen
+Selbststudium A1
+Das RL-Kennzahlensystem kennt als Spitzenkennzahl  den Jahresüberschuss …
+
+--- PAGE 50 ---
+Univ.-Prof. Dr. Matthias Meyer 
+50
+Das RL-Kennzahlensystem kennt als Spitzenkennzahl 
+den Jahresüberschuss …
+Selbststudium
+Rentabilität
+Quelle: Reichmann (2001, S. 34 .)
+--- PAGE 51 ---
+Univ.-Prof. Dr. Matthias Meyer 
+51
+...die Liquidität
+SelbststudiumLiquidität
+Quelle: Reichmann (2001, S. 34 .)
+--- PAGE 52 ---
+Univ.-Prof. Dr. Matthias Meyer 
+52
+Werttreiberhierarchien helfen, die Wertorientierung 
+in das konkrete Geschäft umzusetzen
+Wert-
+treiber 
+und 
+Wert-
+hierarchien:
+• Finanzielle Werttreiber 
+• = Finanzielle Ergebnisgrößen, die 
+aus den Aktivitäten und 
+Entscheidungen im Unternehmen 
+resultieren
+• (z.B. Umsatzwachstum, 
+Umsatzrentabilität, Gewinnsteuern)
+• Operative Werttreiber 
+• = Ergebnisgrößen, die den finanziellen 
+Größen vorgelagert sind und auf den 
+unterschiedlichen Organisationsebenen 
+beeinflussbare Hebel für den 
+Unternehmenserfolg darstellen
+• (z.B. Produktqualität, Haltbarkeit des 
+Produktes)
+Durchgängige 
+Verknüpfung 
+von 
+Werttreibern in 
+einer 
+Werttreiber -
+hierarchie als 
+Mittel, um die 
+Wertorientierun
+g in das 
+konkrete 
+Geschäft 
+umzusetzen
+Werttreiber als 
+beeinflussbarer 
+Faktor, der eine hohe 
+Relevanz für das 
+wirtschaftliche 
+Ergebnis eines 
+Unternehmens 
+(-bereiches) besitzt
+Quelle: Weber/Schäffer (2020 S. 185 f.)
+--- PAGE 53 ---
+Univ.-Prof. Dr. Matthias Meyer 
+53
+Das Hauptziel einer Steuerung über Werttreiber stellt die 
+Operationalisierung des Ziels der Unternehmenswertsteigerung 
+dar
+Beispiel eines Werttreiberbaums auf Basis des Economic Value Added:
+Quelle: Weber/ Bramsemann /Heineke /Hirsch (2002a, S. 37.) zitiert nach Weber/ Schäffer (2020, S. 197.)
+--- PAGE 54 ---
+Univ.-Prof. Dr. Matthias Meyer 
+54
+Manager werden vor allem mit finanziellen Kennzahlen 
+konfrontiert
+Top-Managern in der Praxis regelmäßig zur Verfügung gestellte Kennzahlen
+Quelle: Weber/ Sandt 2001, S. 13
+
+--- PAGE 55 ---
+Univ.-Prof. Dr. Matthias Meyer 
+55
+Nicht-finanzielle Kennzahlen sind in 85% der großen Unternehmen 
+Teil des Standard Management Reports
+Nicht-finanzielle Kennzahlen im Standard Management Report – nach 
+Unternehmensgröße
+Quelle: WHU Controller Pannel 2022
+... % der 
+Unternehmen, 
+haben Nicht-
+finanzielle 
+Kennzahlen im 
+Standard 
+Management 
+Report 
+... % der 
+Unternehmen, 
+haben Nicht-
+finanzielle 
+Kennzahlen NICHT 
+im Standard 
+Management 
+Report 
+Gruppenziele 
+sind in aller Regel 
+finanzielle Ziele – 
+individuelle Ziele 
+beruhen 
+weitgehend auf 
+nichtfinanziellen 
+Zielen
+--- PAGE 56 ---
+Univ.-Prof. Dr. Matthias Meyer 
+56
+Bericht von ESG -Kennzahlen (Environmental, Social and 
+Governance) 
+75% der großen Unternehmen berichten ESG -Kennzahlen – in der Regel aber nicht 
+im Standard Management Report 
+Bericht von ESG -Kennzahlen  - nach Unternehmensgröße
+Quelle: WHU Controller Pannel 2022
+• Durch gesetzliche 
+Vorgaben sind immer 
+mehr Unternehmen 
+verpflichtet 
+Nachhaltigkeitskennzahl
+en zu berichten 
+• Im Mittel geben 46% der 
+Befragten an, dass es in 
+ihrem Unternehmen 
+kein ESG-Reporting gibt. 
+Überwiegend handelt es 
+sich dabei um kleine 
+und mittelgroße 
+Unternehmen, für die es 
+oft (noch) keine 
+Berichtspflicht gibt.
+--- PAGE 57 ---
+Univ.-Prof. Dr. Matthias Meyer 
+57
+Für die Umsetzung von Vision und Strategie fehlt es oftmals 
+an einem wirksamen Bindeglied zum operativen Tagesgeschäft 
+Vision
+Strategie
+Marktführerschaft für Festplatten
+Positionierung als Kostenführer im 
+Wettbewerb
+Umsetzungsprobleme
+Operative 
+Umsetzung
+Unternehmen A Marktanteil 51%, Stückkosten 0,72 €
+Unternehmen B Marktanteil 34%, Stückkosten 0,80 €
+Unternehmen C Marktanteil 15%, Stückkosten 0,93 €
+--- PAGE 58 ---
+Univ.-Prof. Dr. Matthias Meyer 
+58
+Dieses Umsetzungsproblem lösen die traditionellen 
+Kennzahlensysteme nur begrenzt
+• mäßige Anbindung an 
+Strategie
+• ‚Un-balanced‘ 
+(Unausgewogenheit)
+− Fokus auf finanziellen 
+Ergebniskennzahlen
+− Vernachlässigung von 
+Leistungstreibern
+• schwache Verknüpfung mit 
+operativen Zielvorgaben
+Return on
+Investment
+Umschlagshäu-
+figkeit Vermögen
+Umsatzrendite
+Ordentliches
+Betriebsergebnis
+Umsatz
+Umsatz
+Betr.notw.
+Vermögen
+Betr.notw.
+Umlaufvermögen
+Betr.notw.
+Anlagevermögen
+Umsätze
+Bestandsveränd.
+Aktivierte EL
+Aufwand
+Return on
+Investment
+Umschlagshäu-
+figkeit Vermögen
+Umsatzrendite
+Ordentliches
+Betriebsergebnis
+Umsatz
+Umsatz
+Betr.notw.
+Vermögen
+Betr.notw.
+Umlaufvermögen
+Betr.notw.
+Anlagevermögen
+Umsätze
+Bestandsveränd.
+Aktivierte EL
+Aufwand
+--- PAGE 59 ---
+Univ.-Prof. Dr. Matthias Meyer 
+59
+Durch ihre Multiperspektivität stellt die BSC 
+Ausgewogenheit und Strategieanbindung sicher
+Finanzen
+ProzesseKunden
+Entwicklung
+Vision/ 
+Strategie
+--- PAGE 60 ---
+Univ.-Prof. Dr. Matthias Meyer 
+60
+Die Aufnahme von Zielen, Maßnahmen und Verantwortlichkeiten 
+verbindet operatives Geschäft und Strategie, …
+Strategie
+Vision
+Strategieprogramme:
+Ziele/Vorgaben
+Strategieprogramme: 
+Projekte/Aktionen
+Budgetplanung: 
+Kosten, Ergebnisse, 
+Informationsdaten, 
+Verantwortlichkeiten
+Operatives Tagesgeschäft
+Balanced 
+Scorecard
+--- PAGE 61 ---
+Univ.-Prof. Dr. Matthias Meyer 
+61
+…, wie sich am Beispiel der Kundenperspektive 
+zeigen lässt
+Wie sollen wir gegenüber unseren 
+Kunden auftreten, um unsere 
+Vision zu verwirklichen?
+Kunden
+Ziele KennzahlenZielwerteMa
+ßnahmen
+Verantwortung
+Kundenfreund-
+lichstes Einzel-
+handelsunter-
+nehmen
+Kundenzufrie-
+denheitsindex
+jährliche Ver-
+besserung 
+von 10 %
+Regelmäßige 
+Testkäufe
+Servicetraining
+Mitarbeiter
+Leiter Vertrieb
+Leiter HR
+... ... ... ... ...
+Ziele Kenn-
+zahlen
+Zielwerte Maß-
+nahmen
+Verant-
+wortung
+--- PAGE 62 ---
+Univ.-Prof. Dr. Matthias Meyer 
+62
+Die ,idealtypische‘ Balanced Scorecard nimmt daher 
+folgendes Aussehen an
+Wie sollen wir 
+gegenüber 
+unseren 
+Kunden auf-
+treten, um 
+unsere Vision 
+zu verwirklichen?
+Ziele KennzahlenZielwerteMa
+ßnahmen
+Kunden
+Verantwort.
+Wie sollen wir 
+gegenüber 
+Teilhabenden 
+auftreten, 
+um finanziellen 
+Erfolg zu haben?
+Ziele KennzahlenZielwerteMa
+ßnahmen
+Verantwort.
+Finanzen
+In welchen Geschäfts-
+prozessen müssen  
+wir die besten sein,
+um unsere Teil-
+haber und
+Kunden zu
+befriedigen? 
+Ziele KennzahlenZielwerteMa
+ßnahmen
+Verantwort.
+Interne Geschäftsprozesse
+Wie können wir 
+unsere Verän-
+derungs- und 
+Wachstums-
+potenziale fördern, 
+um unsere Vision 
+zu verwirklichen?
+Ziele KennzahlenZielwerteMa
+ßnahmen
+Verantwort.
+Mitarbeiter, Lernen und Entwicklung
+Leitbild
+und 
+Strategie
+Quelle: in Anlehnung an Kaplan/Norton (1997).
+--- PAGE 63 ---
+Univ.-Prof. Dr. Matthias Meyer 
+63
+Balanced Scorecard 
+Operative Wertung der Führung
+
+--- PAGE 64 ---
+Univ.-Prof. Dr. Matthias Meyer 
+64
+Balanced Scorecard 
+Gute Ergebnisse halten, Schlechte verbessern – beides wird 
+belohnt
+
+--- PAGE 65 ---
+Univ.-Prof. Dr. Matthias Meyer 
+65
+Balanced Scorecard 
+Personenbezogene Betrachtung der Ergebnisse
+
+--- PAGE 66 ---
+Univ.-Prof. Dr. Matthias Meyer 
+66
+Balanced Scorecard 
+Differenzierung zwischen aktuellem Ergebnis und Performance
+
+--- PAGE 67 ---
+Univ.-Prof. Dr. Matthias Meyer 
+67
+Balanced Scorecard 
+Einbindung in die persönliche Erfolgskontrolle der Mitarbeiter
+Durch die Verbindung der strategischen Themen der Perspektiven  werden Strategie und Geschäftsverständnis sichtbar (,strategy map‘)
+Selbststudium A2
+--- PAGE 68 ---
+Univ.-Prof. Dr. Matthias Meyer 
+‚Management by BSC‘
+Strategieentwicklung
+• Formulierung des (meist) impliziten 
+Geschäftsverständnisses
+• Klarheit bzgl. Unternehmensstrategie
+• Strategische Prämissenkontrolle
+68
+Die Balanced Scorecard dient der Entwicklung und 
+Umsetzung der Strategie
+Strategieumsetzung
+• Überwindung innerorganisatorischer 
+Grenzen
+• Verknüpfung von Unternehmensstrategie 
+und Managementzielvorgaben durch BSC -
+Kennzahlen
+• Strategieorientierter Ressourceneinsatz
+Entwicklung und Kommunikation der Balanced Scorecard fördern ein 
+gemeinsames Strategieverständnis sowie die Strategieorientierung des 
+Managements.
+Selbststudium A3
+--- PAGE 69 ---
+Univ.-Prof. Dr. Matthias Meyer 
+69
+Ein weiteres Problem
+
+--- PAGE 70 ---
+Univ.-Prof. Dr. Matthias Meyer 
+70
+Schema zur Klassifizierung von Kennzahlensystemen 
+1. Selektive Kennzahlen
+2. DuPont-System
+Finanzwirtschaftliches Kennzahlensystem mit hohem 
+Zusammenhang der Kennzahlen, jedoch ledigliche  
+Betrachtung des finanziellen Aspekts
+3. Balanced  Scorecard  (BSC), 
+Werttreiberhierarchien
+Enge Verknüpfung der Kennzahlenfelder durch 
+Ursache-Wirkungs -Zusammenhänge; Vermeidung 
+der Beschränkung auf nur finanzielle Größen
+4. EFQM-System (European Foundation  for Quality 
+Management) 
+Quelle: Weber/Sandt ( 2001, S.21), zitiert nach Weber/ Schäffer (2020, S. 194)
+Zusammenhang und Ausgewogenheit von Kennzahlen
+--- PAGE 71 ---
+Univ.-Prof. Dr. Matthias Meyer 
+71
+Was ist wichtiger für Manager: Ausgewogenheit oder enger 
+Zusammenhang? Ergebnisse der Dissertation von Sandt 2003
+*** Signifikanzniveau 1%
+Zufriedenheit mit den 
+Kennzahlen
+Ausgewogenheit
+Zusammenhang
+0,533***
+0,217***
+Erklärte Varianz
+r2 = 44%
+--- PAGE 72 ---
+Univ.-Prof. Dr. Matthias Meyer 
+72
+Praktische Defizite: Kennzahlen werden Managern heterogen 
+präsentiert...
+Quelle: Weber/Sandt ( 2001)
+Kennzahlen werden 
+„aus einer Hand“ 
+vorgelegt 
+(i.e. Controlling)
+7%
+Kennzahlen werden von 
+verschiedenen Abteilungen
+vorgelegt 
+93%
+Kennzahlen werden 
+in einem Bericht 
+vorgelegt 
+7%
+Kennzahlen werden
+nicht in einem Bericht
+vorgelegt
+93% 
+7% sind nicht identisch 
+mit den 7% der Fälle, in denen 
+Kennzahlen „aus einer Hand“ 
+berichtet werden.
+--- PAGE 73 ---
+Univ.-Prof. Dr. Matthias Meyer 
+73
+...eine Bündelung der Kennzahlen erhöht die Zufriedenheit der 
+Manager erheblich
+Quelle: Weber/Sandt ( 2001)
+Zufriedenheit mit Kennzahlen
+Anteil der 
+Nennungen in 
+jeweiligen 
+Gruppen
+nicht „aus einer Hand“
+„aus einer Hand“
+(sehr) 
+unzufrieden
+(sehr) 
+zufriedenteils, teils
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+10%
+6%
+60%
+33% 30%
+61%
+Zufriedenheit mit Kennzahlen
+nicht in einem Bericht
+in einem Bericht
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+(sehr) 
+unzufrieden
+(sehr) 
+zufriedenteils, teils
+70%
+80%
+10%
+0%
+61%
+22%
+29%
+78%
+--- PAGE 74 ---
+Univ.-Prof. Dr. Matthias Meyer 
+74
+Auch die durch Kennzahlen bereitgestellten 
+Informationen können unterschiedlich genutzt werden
+Diagnostische 
+Nutzung
+• Nutzung eines Informationssets im Sinne einer Bestätigung eines
+vorab festgelegten Sollzustands (Aktion nur bei Abweichungen)
+Interaktive
+Nutzung
+• Nutzung eines Informationssets im Sinne einer Bündelung der Aufmerksamkeit des 
+Managements auf operative und strategische Engpässe
+Quelle: Simons, R. ( 1995): Levers of Control, Cambridge/Mass. Kommentar : 2 von 5 Bestanden , ausschnitt aus dem Levers of Control 
+Typologie nach Simons 
+--- PAGE 75 ---
+Univ.-Prof. Dr. Matthias Meyer 
+75
+Das Konzept selektiver Kennzahlen ist ein Beispiel für 
+ein interaktiv zu verwendendes Kennzahlensystem
+Selektive Logistikkennzahlen
+Strategische Leistungsanforderungen an den Material - und Warenfluss als Ansatzpunkt der Kennzahlenbildung. Kennzahlen als 
+Instrument zur Messung der Erfüllung der strategischen Anforderungen an den Material - und Warenfluss, daraus abgeleitete 
+Ziele und gesetzte Prämissen der Planung 
+z.B. Erreichen 
+zusätzlicher 
+Marktchancen
+Abbildung kritischer 
+Leistungsengpässe
+Abbildung kritischer 
+Effizienztreiber
+Aufzeigen potentiell 
+kritischer 
+Entwicklungen
+z.B. Verbessern der 
+Marktchancen durch 
+Kostenreduzierung
+z.B. Halten von 
+Marktanforderungen
+z.B. Servicegrad          
+> 90%
+z.B. Logistikkosten              
+< 15% der 
+Gesamtkosten
+z.B. Zahl der 
+Aufträge pro 
+Tag
+z.B. Veränderung 
+der Zahl der 
+Aufträge
+z.B. Ausfallgrad 
+einer 
+Förderstrecke
+z.B. Lieferzeit 
+< 1 Woche
+Kennzahlen als 
+Instrument zur 
+effektiven 
+Abwicklung der
+material- und 
+warenfluss-
+bezogenen 
+Leistungs-
+erstellung. 
+(Potentielle) 
+Engpassbereiche 
+des Flusssystems
+--- PAGE 76 ---
+Univ.-Prof. Dr. Matthias Meyer 
+76
+Die diagnostische Nutzung von Kennzahlen ist schwächer 
+ausgeprägt als die interaktive Nutzung
+Quelle: Weber, Jürgen/Sandt, Joachim (2001): Erfolg durch Kennzahlen. Neue empirische Erkenntnisse. Advanced Controlling Band  21, Vallendar. 
+(0% = extrem niedrig, 100% extrem hoch)
+69%
+83%
+0% 20% 40% 60% 80% 100%
+Diagnostisch
+(“Leitstand“)
+Interaktiv
+(„Scheinwerfer“)
+Nutzungsart
+Ausmaß der Nutzung
+--- PAGE 77 ---
+Univ.-Prof. Dr. Matthias Meyer 
+77
+Auch die durch Kennzahlen bereitgestellten 
+Informationen können unterschiedlich genutzt werden
+Instrumentelle
+Nutzung
+• Unmittelbare Nutzung der gelieferten Informationen für die Lösung konkreter Willensbildungs - 
+oder Durchsetzungsprobleme
+Konzeptionelle
+Nutzung
+• Förderung des allgemeinen Verständnisses des Geschäfts und der Situation, in der sich der 
+(die) Manager befinden
+• Beeinflussung der Denkprozesse und -haltungen der Manager
+Symbolische
+Nutzung
+• Nutzung der Informationen nach Treffen einer nicht auf Basis dieser Informationen gefällten 
+Entscheidung als Instrument zur Kommunikation und Durchsetzung dieser Entscheidungen 
+bei Dritten ( „Scheinrationalisierung “)
+Quelle: Pelz (1978)
+Typologie nach Pelz
+--- PAGE 78 ---
+Univ.-Prof. Dr. Matthias Meyer 
+78
+Wie werden Kennzahlen genutzt? Weitere Befunde aus der 
+Studie von Sandt 2003
+Quelle: Weber, Jürgen/Sandt, Joachim (2001): Erfolg durch Kennzahlen. Neue empirische Erkenntnisse. Advanced Controlling Band  21, Vallendar. 
+Nutzungsart
+Ausmaß der Nutzung
+(0% = extrem niedrig, 100% extrem hoch)
+0% 20% 40% 60% 80% 100%
+Symbolisch
+Konzeptionell
+Instrumentell 64%
+70%
+71%
+--- PAGE 79 ---
+tuhh.de
+Dankeschön
+Prof. Dr. Matthias Meyer 
+Institute of Management 
+Accounting and Simulation
+--- PAGE 80 ---
+Kapitel 2.2 Kennzahlensysteme – 
+Appendix zum Selbststudium
+80
+--- PAGE 81 ---
+Univ.-Prof. Dr. Matthias Meyer 
+• Was wird unter einem ‚Kennzahlensystem ‘ verstanden? Welche Vorteile bietet die Nutzung von 
+Kennzahlensystemen gegenüber einzelner Kennzahlen?
+• Was wird unter der ‚Ausgewogenheit ‘ von Kennzahlensystemen verstanden?
+• Welche Zusammenhänge können durch den ROI Baum dargestellt werden? Nennen Sie die 
+Zielsetzung, Vorteile, Problemstellung und die Limitationen die bei der Nutzung auftreten.
+• Welche Perspektiven berücksichtig die BSC?
+• Wie können die von Kennzahlensystemen bereitgestellten Informationen genutzt werden?
+81
+2.2 Kennzahlensysteme
+WIEDERHOLUNGSFRAGEN
+--- PAGE 82 ---
+Univ.-Prof. Dr. Matthias Meyer 
+82
+Das RL-Kennzahlensystem kennt als Spitzenkennzahl 
+den Jahresüberschuss …
+Selbststudium
+Rentabilität
+Quelle: Reichmann (2001, S. 34 .)
+--- PAGE 83 ---
+Univ.-Prof. Dr. Matthias Meyer 
+83
+...die Liquidität
+SelbststudiumLiquidität
+Quelle: Reichmann ( 2001, S. 34.)
+--- PAGE 84 ---
+Univ.-Prof. Dr. Matthias Meyer 
+84
+Das RL-Kennzahlensystem weist eine übersichtliche 
+Struktur auf
+Selbststudium
+• Der Rentabilitätsteil  will Aussagen über die nachhaltigen Ergebnisse des Betriebs und den 
+Finanzaktivitäten  treffen
+• Der Liquiditätsteil  gibt Auskunft über die Zahlungsbereitschaft auf der 
+Gesamtunternehmensebene
+• Der allgemeine Teil  umfasst alle Kennzahlen, die für alle Unternehmen sinnvoll berechnet 
+werden können. Auf seiner Grundlage sind zwischenbetriebliche Vergleiche möglich
+• Der Sonderteil beinhaltet Kennzahlen, die branchen - und unternehmensspezifisch sind. Er 
+ermöglicht einen tieferen Blick in das unternehmerische Geschehen.
+--- PAGE 85 ---
+Univ.-Prof. Dr. Matthias Meyer 
+85
+Wie sind wesentliche Kennzahlen des RL -Systems zu 
+interpretieren? – Rentabilitätskennzahlen
+Selbststudium
+EVA • … misst den absoluten Wertbeitrag, der dadurch erwirtschaftet wurde, dass das eingesetzte 
+Kapital in das Unternehmen und nicht in eine alternative Investition geflossen ist
+Gesamtkapital-
+rendite
+• … gibt an, welche Rendite das gesamte Kapital erwirtschaften konnte
+• Indikator für die Ertragskraft des Unternehmens
+Eigenkapital-
+Rendite
+• … gibt an, welche die Eigentümer durch ihren Kapitaleinsatz erwirtschaftet werden konnte 
+(Leverage -Effekt)
+Forderungs-
+umschlagszeit • … spiegelt das durchschnittliche Zahlungsziel wider, das den Kunden eingeräumt wird
+Material-
+umschlagszeit
+• … gibt die Zahl der Tage an, die notwendig sind, um das Materiallager umzuschlagen. Sie ist 
+daher ein Indiz für die Güte der betrieblichen Materialwirtschaft
+--- PAGE 86 ---
+Univ.-Prof. Dr. Matthias Meyer 
+86
+Wie sind wesentliche Kennzahlen des RL -Systems zu 
+interpretieren? – Rentabilitätskennzahlen
+Selbststudium
+Erzeugnis-
+umschlagszeit
+• … Ausdruck für die Zeit, die benötigt wird, um das Erzeugnislager umzuschlagen. Sie ist daher 
+ein Indiz dafür, wie schnell es dem Unternehmen gelingt seine Produkte zu verkaufen.
+--- PAGE 87 ---
+Univ.-Prof. Dr. Matthias Meyer 
+87
+Wie sind wesentliche Kennzahlen des RL -Systems zu 
+interpretieren? – Liquiditätskennzahlen
+Selbststudium
+Liquide Mittel
+• … geben an, welchen Bestand das Unternehmen an Geld - und Vermögenswerte hat, die bei 
+Bedarf in Geld umgewandelt und zur Deckung der Zahlungsverpflichtungen verwendet 
+werden können
+Cash Flow
+• … der aus der betrieblichen Tätigkeit erwirtschaftete Zahlungsüberschuss einer Periode 
+• … Indikator für die Innenfinanzierungskraft  des Unternehmens
+Working 
+Capital
+• … Differenz aus Umlaufvermögen und kurzfristige Verbindlichkeiten
+• … Indikator für kurzfristige Liquiditätsrisiken
+--- PAGE 88 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Pro
+• Umfassendes Kennzahlensystem, das sich 
+auf Rentabilitäts - und 
+Liquiditätskennzahlen fokussiert
+• Gute Anpassung an individuelle 
+Unternehmenssituation durch die 
+empirisch -induktive Gewinnung der 
+Kennzahlen insb. des Sonderteils
+• Verzicht auf Rechenbarkeit fördert 
+Übersichtlichkeit
+• ...
+88
+Das RL-Kennzahlensystem weist spezifische 
+Vor- und Nachteile auf
+Contra
+• Zusammenhang zwischen Kennzahlen 
+verbleibt unklar
+• Ausgewogenheit der Kennzahlen?
+• ... 
+Selbststudium
+--- PAGE 89 ---
+Univ.-Prof. Dr. Matthias Meyer 
+89
+Durch die Verbindung der strategischen Themen der Perspektiven 
+werden Strategie und Geschäftsverständnis sichtbar (,strategy 
+map‘)
+Selbststudium
+ROCEFinanzperspektive
+Kundenperspektive
+Interne Perspektive
+Lern- und Entwicklungsperspektive
+Kundentreue
+Pünktliche Lieferung
+Prozessqualität Prozessdurchlaufzeit
+Fachwissen der
+Mitarbeiter 
+Quelle: in Anlehnung an Kaplan/Norton (1996, S.31), zitiert nach Weber/Schäffer (2020, S. 200)
+--- PAGE 90 ---
+Univ.-Prof. Dr. Matthias Meyer 
+90
+‚Management by BSC‘
+Vision
+Strategie
+Marktführerschaft für Festplatten
+Positionierung als Kostenführer im 
+Wettbewerb
+Selbststudium
+Bestimmung
+ der Zielsetzung
+Geringe Material-
+Kosten
+Kennzahl
+ als Soll
+         maximale 
+    Ausschussquote
+ pro Schicht
+Maßnahmen    
+      eingehaltene
+    Wartungs-
+intervalle
+Erreichung
+   Zielsetzung
+   Abnahme
+Materialkosten
+Kennzahl
+  als Ist
+Messung
+  Ausschussquote
+pro Schicht
+Planung Kontrolle
+--- PAGE 91 ---
+Univ.-Prof. Dr. Matthias Meyer 
+91
+Viele Unternehmen haben eine Einführung der 
+Balanced Scorecard bereits realisiert oder geplant
+Selbststudium
+
+--- PAGE 92 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Pro
+• Unterstützung von Strategieentwicklung 
+sowie Strategieumsetzung
+• Verknüpfung quantitativer und 
+qualitativer Kennzahlen verschiedener 
+Perspektiven
+• Klare Gliederung und einfache 
+Kommunikation
+• ...
+92
+Mit dem Einsatz dieses Managementinstruments sind 
+verschiedene Vor - und Nachteile verbunden
+Contra
+• Hohe Bindung von Managementkapazität
+• ... 
+Selbststudium
+--- PAGE 93 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Review Articles : 
+Hier findet ihr den Artikel zu unserem Balance Scorecard  Beispiel bei McDonalds (Vorlesung 
+Kennzahlensysteme): Sagadin, H., & Hirsch, B. (2016). Die Balanced  Scorecard  als operatives 
+Steuerungsinstrument. Controlling & Management Review, 60, 52-57.
+Vorlesungsbegleitendes Nachschlagewerk: 
+Weber/Schäffer (2022), S. 193 -205
+93
+Zusatzmaterial
+Selbststudium
+--- PAGE 94 ---
+Controlling 
+Prof. Dr. Matthias Meyer 
+Institute of Management Accounting and Simulation
+31.03.2026
+
+--- PAGE 95 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Kapitel 2
+Kapitel 2
+95
+Inhaltsverzeichnis
+1. Controlling und Controllership
+2.1 Grundlagen der Informationsversorgung 
+    2.2 Kennzahlen und Kennzahlensysteme
+    2.3 Berichtswesen
+    2.4 Gestaltung der Informationsversorgung 
+    2.5 Zusammenfassung - Informationsversorgung
+2. Informationsversorgung 
+3. Planung und Kontrolle 
+3.1 Grundlagen Planung und Kontrolle 
+    3.2 Operative Planung / Budgetierung
+    3.3 Mittelfristplanung
+ 3.3.1 Einführung 
+ 3.3.2 Struktur des taktischen Planungsprozesses 
+ 3.3.3 Instrumente der taktischen Planung 
+ 3.3.4 Zusammenfassung – Mittelfristplanung
+    3.4 Strategische Planung 
+ 3.4.1 Einführung 
+ 3.4.2 Struktur des strategischen Planungsprozesses 
+ 3.4.3 Instrumente im strategischen Planungsprozess 
+ 3.4.4 Zusammenfassung - Strategische Planung 
+ 
+--- PAGE 96 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Kapitel 2
+Kapitel 2
+96
+Inhaltsverzeichnis
+4. Koordination als Controllingaufgabe
+4.1 Arbeitsteilung und Koordinationsbedarf 
+    4.2 Bereitstellung von Koordinationsinstrumenten durch das Controlling 
+ 4.2.1 Controlling und Koordinationsaufgaben 
+ 4.2.2 Wertorientierte Kennzahlen 
+ 4.2.3 Verrechnungspreise 
+ 4.2.4 Anreizsysteme 
+    4.3 Zusammenfassung – Koordination als Controllingaufgabe 
+5. Bereichscontrolling 
+5.1 Bereichscontrolling 
+    5.2  Risikocontrolling 
+    5.3 Projektcontrolling 
+ 5.3.1 Allgemein 
+ 5.3.2 Strategisches Projektcontrolling 
+ 5.3.3 Operatives Projektcontrolling 
+--- PAGE 97 ---
+Univ.-Prof. Dr. Matthias Meyer 
+97
+Übersicht
+Controlling & Controllership
+Bereichscontrolling
+Informations
+management 
+Planung und 
+Kontrolle
+Koordination
+Risiko-
+controlling
+Strategisches 
+Projekt-
+controlling
+Operatives 
+Projekt-
+controlling
+Marketing 
+Controlling, Logistik 
+Controlling ... 
+--- PAGE 98 ---
+Kapitel 2.3
+Berichtswesen
+98
+--- PAGE 99 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Kapitel 2
+Kapitel 2
+99
+Inhaltsverzeichnis
+1. Controlling und Controllership
+2.1 Grundlagen der Informationsversorgung 
+    2.2 Kennzahlen und Kennzahlensysteme
+    2.3 Berichtswesen
+    2.4 Gestaltung der Informationsversorgung 
+    2.5 Zusammenfassung - Informationsversorgung
+2. Informationsversorgung 
+3. Planung und Kontrolle 
+3.1 Grundlagen Planung und Kontrolle 
+    3.2 Operative Planung / Budgetierung
+    3.3 Mittelfristplanung
+ 3.3.1 Einführung 
+ 3.3.2 Struktur des taktischen Planungsprozesses 
+ 3.3.3 Instrumente der taktischen Planung 
+ 3.3.4 Zusammenfassung – Mittelfristplanung
+3.4 Strategische Planung 
+ 3.4.1 Einführung 
+ 3.4.2 Struktur des strategischen Planungsprozesses 
+ 3.4.3 Instrumente im strategischen Planungsprozess 
+ 3.4.4 Zusammenfassung - Strategische Planung 
+ 
+2.3 Berichtswesen
+--- PAGE 100 ---
+Univ.-Prof. Dr. Matthias Meyer 
+100
+Zum Begriff des Berichtswesens
+„Man kann unter ihm [dem Berichtswesen] alle Personen, Einrichtungen, Regelungen, Daten und 
+Prozesse verstehen, mit denen Berichte erstellt und weitergegeben werden“ (Küpper 2001, S. 152).
+Ziel des Berichtswesens ist allgemein die Deckung des Informationsbedarfs der 
+Berichtsempfänger, speziell werden das Schaffen von Transparenz sowie die Vorbereitung und 
+Kontrolle von Entscheidungen hervorgehoben (Küpper  2001, S. 152).
+Unterscheiden lassen sich fallweise und regelmäßige Berichte. Der Begriff des Berichtswesens 
+bezieht sich primär auf die systematische, periodisch repetitive Berichterstattung in schriftlicher 
+Form („Standardberichte“).
+Beispiele sind die Berichterstattung an den Kapitalmarkt und das interne Berichtswesen.
+--- PAGE 101 ---
+Univ.-Prof. Dr. Matthias Meyer 
+101
+Looking back again: Der DuPont -Chartroom
+
+--- PAGE 102 ---
+Univ.-Prof. Dr. Matthias Meyer 
+102
+Zur Einordnung des Berichtswesens im 
+„Produktprogramm “ der Controller
+Anreizsysteme
+Informations-
+versorgung
+Externes Rechnungswesen
+Kennzahlensysteme
+Berichtswesen
+Finanzrechnung
+Planung/
+Kontrolle
+Strategieplanung/-kontrolle
+Taktische Planung 
+(Investitionsplanung)/-kontrolle
+Operative Planung und 
+Budgetierung
+Koordinations-
+aufgaben
+Verrechnungspreise
+Das Berichtswesen…
+• beansprucht im Controller-Bereich viele 
+Ressourcen
+• erhält hohe Management-Attention
+• ist Kristallisationspunkt der gesamten 
+Informationsversogung
+und damit
+  … ein Kernprodukt des Controllings.
+Kosten- und Erlösrechnung
+Kennzahlensyteme
+Selbststudium A1
+Das Berichtswesen stellt den Entscheidungsträgern im Unternehmen die erforderlichen Führungsinformationen zur Verfügung
+
+--- PAGE 103 ---
+Univ.-Prof. Dr. Matthias Meyer 
+103
+Berichtstypen lassen sich anhand des Auslösers eines 
+Berichts charakterisieren
+Das Berichtswesen…
+• beansprucht im Controller-Bereich viele 
+Ressourcen
+• erhält hohe Management-Attention
+• ist Kristallisationspunkt der gesamten 
+Informationsversogung
+und damit
+  … ein Kernprodukt des Controllings.
+Berichtstypen
+Standardberichte
+Regelmäßige 
+Bereitstellung eines 
+Berichtes mit 
+weitestgehend 
+normiertem Inhalt 
+sowie zu einem 
+festen Zeitpunkt
+Abweichungsberichte
+Bereitstellung eines 
+Berichtes bei Über- 
+oder Unterschreiten 
+bestimmter 
+Schwellenwerte 
+ohne festen 
+Berichtszyklus
+Bedarfsberichte
+Bereitstellung eines 
+problemfokussierten 
+Berichtes auf 
+Anordnung des 
+Managements
+--- PAGE 104 ---
+Univ.-Prof. Dr. Matthias Meyer 
+104
+Berichtsarten
+Empirisch zeigt sich, dass Controller etwa die Hälfte der Zeit, die sie für das Berichtswesen 
+aufbringen, für Standardberichte verwenden.
+Dabei dominiert eine monatliche Berichtsfrequenz .
+Standard-
+berichte; 50%
+Abweichungs
+-berichte; 21%
+Bedarfs-
+berichte; 23%
+Sonstige; 6%
+Anteil der Gesamtbearbeitungszeit im 
+Berichtswesen für Berichtsarten
+3%
+0%
+1%
+5%
+80%
+11%
+Sonstige
+Jährlich
+Halbjährlich
+Quartalsweise
+Monatlich
+Wöchentlich
+Prozent der Unternehmen
+Frequenz des 
+steuerungsrelevantesten 
+Berichts
+Quelle: Weber/Schäffer (2020, S.235)
+--- PAGE 105 ---
+Univ.-Prof. Dr. Matthias Meyer 
+105
+In der Praxis erfolgt die Routineberichterstattung meist über 
+Monatsberichte – nur selten sind geringere bzw. größere Zyklen 
+beobachtbar
+• Häufig zeitlich ausdifferenzierte Meldungstypen
+− Bsp.: frühzeitige Umsatzmeldung (Beispiel: U + 2), unkonsolidierte Ergebnismeldung (U+ 5), konsolidierte Ergebnisse (U+ 15)
+− Fast Close: Versuch, durch Verbesserung im Berichtsprozess (IT -Seite, Daten, Datenschnittstellen) frühere Berichtstermine 
+zu realisieren
+• Monetäre Kennzahlen dominieren
+− Teilweise aber auch Markt -, Strukturdaten
+− Selten: Benchmarking
+• Neben Ist - und Plandaten häufig auch Prognosedaten (Forecast)
+− Darstellung grafisch oder tabellarisch in Form von Zeitreihen (Monatsentwicklung)
+• Ausgestaltungsalternativen: Nachschlagewerk vs. Überblick
+− Kommentierung von Entwicklungen durch das Controlling sinnvoll
+▪ Drill-Down: Möglichkeit, bei elektronischen Berichten aus aggregierten Daten heraus bis auf die einzelnen Belege hin 
+zu analysieren
+− Systemgrundlage: Data Warehouse (mehrdimensionale Datenbank)
+▪ OLAP (Online Analytical Processing), d.h. gerichtete Auswertung
+▪ Data Mining (eher selten; ungerichtete Auswertung)
+--- PAGE 106 ---
+Univ.-Prof. Dr. Matthias Meyer 
+106
+Beispiel: Der Monatsbericht eines 
+Telekommunikationsunternehmens
+• Das Monats -Reporting ist typischerweise eine Kombination von 
+Text, Tabellen und grafischen Elementen:
+− Aufmachung und Darstellung  beeinflussen die Aufnahme der 
+bereitgestellten Informationen.
+− Gestaltung von Berichten ist ein nicht -triviales Problem!
+• Trend zu einer möglichst engen Abstimmung von externen und 
+internen Berichten (integrierte Rechnungslegung):
+− Kooperation zwischen Controllerbereich und Bilanzierung erforderlich,
+− Einschränkung in der Definitionsbreite der im Controlling verwendeten 
+Kennzahlen.
+• Die Forderung nach zeitnahen und aussagekräftigen 
+Monatsberichten erfordert umfangreiche Maßnahmen der 
+Optimierung und Verschlankung von Berichtsprozessen und 
+Vorsystemen.
+Praxishinweise zum Monats -Reporting
+--- PAGE 107 ---
+Univ.-Prof. Dr. Matthias Meyer 
+107
+In der Praxis schwankt der Berichtsumfang in den Unternehmen 
+stark – das Beispiel Monatsberichte  in CCM -Unternehmen
+U6
+U2
+U1
+39
+96
+Ø 94 Seiten
+5
+18
+124
+U7
+84U4
+U5
+295
+U3
+214
+8.980
+5.130
+18.360
+69.420
+4.160
+8.700
+Die „Knappen“
+Die „Übersicht-
+lichen“
+Der „Ausführliche“
+Umfang in Seiten Anzahl Zahlen
+Ø 16.420 Zahlen
+--- PAGE 108 ---
+Univ.-Prof. Dr. Matthias Meyer 
+108
+In der Praxis schwankt auch die Form der Informationsdarstellung 
+stark – das Beispiel Monatsberichte von CCM -Unternehmen
+100
+89
+64
+81
+58
+47
+82
+11
+31
+7
+18
+126U7
+U2
+U6 35
+U5 42
+U4 12
+U3 5
+U1
+Grafiken
+Tabellen
+Kommentare
+Die „Knappen“
+Die „Übersicht-
+lichen“
+Der „Ausführliche“
+--- PAGE 109 ---
+Univ.-Prof. Dr. Matthias Meyer 
+109
+Finanzkennzahlen dominieren als Berichtsinhalte – das 
+Beispiel CCM
+4
+54
+70
+75
+84
+85
+85
+100
+13
+13
+16
+7
+13
+6
+7
+U1
+U3 7
+U6
+U2   
+U7
+20
+16
+U4 3
+U5 314
+Finanzkennzahlen
+Mitarbeiterkennzahlen
+Markt-/Kundenkennzahlen
+Prozesskennzahlen
+1
+4
+Anteile Arten von Kennzahlen in  % der 
+Zahlen
+--- PAGE 110 ---
+Univ.-Prof. Dr. Matthias Meyer 
+110
+In der Praxis schwankt auch der Berichtsschwerpunkt stark – 
+das Beispiel CCM
+64
+58
+41
+75
+72
+97
+6
+12
+21
+47
+20
+25
+92
+U1
+12
+21
+U6 24
+U3
+U4
+U7 2
+U2
+5
+3
+U5 3
+Anteile Kennzahlen nach organisato-
+rischen Einheiten in % der Zahlen
+Unternehmensebene
+SBU-Ebene
+Produkt-/Vertriebslinienebene
+--- PAGE 111 ---
+Univ.-Prof. Dr. Matthias Meyer 
+112
+Charakteristika des Standard Management Reports
+Mit der graphischen Aufbereitung und dem Kosten -/Nutzenverhältnis des Standard 
+Management Reports sind die Controller am wenigsten zufrieden 
+Quelle: WHU Controller Pannel 2022
+• Die Informationen im 
+Report gelten in aller 
+Regel als zuverlässig 
+• Deutlich schlechter fällt 
+das Kosten -
+/Nutzenverhältnis, wenn 
+im Unternehmen keine 
+BI- oder Dashboard -
+Lösung zum Einsatz 
+kommt und der 
+Digitalisierungsgrad im 
+Reporting als eher 
+unzureichend 
+wahrgenommen wird 
+--- PAGE 112 ---
+Univ.-Prof. Dr. Matthias Meyer 
+113
+Aus der Praxis: Der Weg zur digitalen 
+Unternehmenssteuerung – SAP Digital Boardroom
+• Alle Unternehmensdaten 
+stehen auf einer 
+integrierten Plattform in 
+Echtzeit zur Verfügung
+• Automatisierung des 
+internen 
+Standardberichtwesens
+• Einbeziehungen des 
+Planungssystems
+• Darstellung von
+Vergangenheitswerten , 
+aktueller Performance 
+und Planwerten macht 
+Trends sichtbar
+Quelle: Weber/Schäffer ( 2020, S.264) 
+--- PAGE 113 ---
+Univ.-Prof. Dr. Matthias Meyer 
+114
+Anteil der einzelnen Prozessschritte in der Gesamtarbeitszeit am 
+Management Reporting 
+Wird eine BI -oder Dashboard -Lösung genutzt, liegt der Schwerpunkt der Arbeitszeit 
+stärker auf Analyse und Kommentierung 
+Quelle: WHU Controller Pannel 2022
+BI- oder Dashboard -Lösung NICHT genutzt BI- oder Dashboard -Lösung genutzt
+--- PAGE 114 ---
+Univ.-Prof. Dr. Matthias Meyer 
+115
+Vorhandensein einer BI -oder Dashboard -Lösung 
+60% der Unternehmen nutzen inzwischen eine BI -oder Dashboard -Lösung – Power BI 
+und SAP-basierte Lösungen sind dabei am weitesten verbreitet
+Quelle: WHU Controller Pannel 2022
+Unternehmensgrößenabhängige 
+Nutzung: von BI -/Dashboard -Lösungen 
+in... 
+... Kleinen Unternehmen: 47%
+... Mittelgroßen Unternehmen: 64% 
+... Großen Unternehmen: 66% 
+
+--- PAGE 115 ---
+Univ.-Prof. Dr. Matthias Meyer 
+116
+Zufriedenheit mit dem Management Reporting
+Quelle: WHU Controller Panel 2022
+Während Manager und Controller mit dem Management Reporting tendenziell 
+zufrieden sind, wird die Effizienz des Prozesses nur von 31% der Befragten als hoch 
+eingestuft 
+• Die Zufriedenheit mit dem 
+Reporting ist seit Jahren 
+unverändert hoch
+• Wöchentliche Berichte 
+sorgen für besonders hohe 
+Zufriedenheit ( 75% der 
+Controller und 86% der 
+Manager)
+• Kommt eine BI - oder 
+Dashboard -Lösung zum 
+Einsatz, hat das eine 
+positive Auswirkung auf die 
+Effizienz des Reporting -
+Prozesses. 
+• Ein Zusammenhang mit der 
+Unternehmensgröße findet 
+sich nicht 
+--- PAGE 116 ---
+Kapitel 2.4
+Gestaltung der 
+Informationsversorgung
+117
+--- PAGE 117 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Kapitel 2
+Kapitel 2
+118
+Inhaltsverzeichnis
+1. Controlling und Controllership
+2.1 Grundlagen der Informationsversorgung 
+    2.2 Kennzahlen und Kennzahlensysteme
+    2.3 Berichtswesen
+    2.4 Gestaltung der Informationsversorgung 
+    2.5 Zusammenfassung - Informationsversorgung
+2. Informationsversorgung 
+3. Planung und Kontrolle 
+3.1 Grundlagen Planung und Kontrolle 
+    3.2 Operative Planung / Budgetierung
+    3.3 Mittelfristplanung
+ 3.3.1 Einführung 
+ 3.3.2 Struktur des taktischen Planungsprozesses 
+ 3.3.3 Instrumente der taktischen Planung 
+ 3.3.4 Zusammenfassung – Mittelfristplanung
+3.4 Strategische Planung 
+ 3.4.1 Einführung 
+ 3.4.2 Struktur des strategischen Planungsprozesses 
+ 3.4.3 Instrumente im strategischen Planungsprozess 
+ 3.4.4 Zusammenfassung - Strategische Planung 
+ 
+2.3 Berichtswesen
+2.4 Gestaltung der Informationsversorgung 
+--- PAGE 118 ---
+Univ.-Prof. Dr. Matthias Meyer 
+119
+Gute Berichte sollten attraktiv und steuerungsorientiert 
+gestaltet sein
+Gestaltungsprinzipien
+Adressaten-
+orientiert Berichtsinhalt sollte dem Informationsbedarf des Adressaten entsprechen. 
+Übersichtlichkeit Berichte sollten klar strukturiert und übersichtlich gegliedert sein.
+Keine isolierte
+Darstellung Berichte sollten aussagekräftige Vergleiche zur Einschätzung der Kennzahlen beinhalten.
+Attraktivität Berichte sollten das Management ansprechen.
+Einheitlichkeit Berichten sollte ein einheitliches Layout und eine einheitliche Kennzahlendefinition 
+zugrunde liegen. 
+--- PAGE 119 ---
+Univ.-Prof. Dr. Matthias Meyer 
+120
+In der Empirie werden die Gestaltungsprinzipien oftmals nicht 
+konsequent umgesetzt – Beispiel Kommentierung
+Wie kommentiere ich richtig?
+• Wann sollte kommentiert werden? 
+ Sachverhalte, die außergewöhnlich  sind und relevante Auswirkungen auf das 
+Unternehmen haben 
+Wie sollte kommentiert werden? 
+ Zuerst die Auswirkungen nennen, dann erst deren Gründe
+ 
+ Gestaltung von Kommentaren (kurze Absätze, wichtige Punkte fett, klare verbindliche 
+Sprache)
+--- PAGE 120 ---
+Univ.-Prof. Dr. Matthias Meyer 
+121
+Die Aussage bestimmt die Form des Schaubildes
+Von der Aussage zum Schaubild 
+Quelle: Zelazny ( 1996)
+Aussage
+Was soll gesagt 
+werden?
+Vergleich
+Welcher 
+Vergleich wird 
+angestellt?
+• Struktur
+• Rangfolge
+• Zeitreihe
+• Häufigkeit
+• Korrelation
+Schaubild
+Festlegung der 
+Schaubildform
+• Kreisdiagramm
+• Balkendiagramm
+• Säulendiagramm
+• Kurvendiagramm
+• Punktdiagramm
+--- PAGE 121 ---
+Univ.-Prof. Dr. Matthias Meyer 
+122
+Es können fünf Vergleichstypen unterschieden werden, …
+Struktur –
+Vergleich Welcher Anteil hat eine Komponente an der Gesamtheit (z.B. Anteil, Prozentsatz)
+Rangfolge – 
+Vergleich Rangfolge einzelner Objekte (z.B. größer als, gleich hoch, an dritter Stelle)
+Zeitreihen – 
+Vergleich Veränderung einer Größe über einen Zeitraum (z.B. gestiegen, gefallen, schwankt)
+Häufigkeits – 
+Vergleich
+Auftreten eines Objekts in bestimmten Größenklassen (z.B. meistens, Verteilung, 
+Häufigkeit)
+Korrelations – 
+Vergleich
+Zusammenhang zwischen zwei Variablen (z.B. steigt mit, verändert sich parallel zu, variiert 
+mit)
+Quelle: Zelazny (1996)
+--- PAGE 122 ---
+Univ.-Prof. Dr. Matthias Meyer 
+…für die bestimmte Schaubilder verwendet werden sollen.
+Quelle: in Anlehnung an Zelazny (1996)
+Selbststudium A2
+DO‘s and DON‘Ts
+
+--- PAGE 123 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Eine Klassifizierung von Schaubildern
+Quelle: © Jorge Camoes 2013,  Excelcharts.com
+
+--- PAGE 124 ---
+Univ.-Prof. Dr. Matthias Meyer 
+‚Ein Bild sagt mehr als tausend Zahlen ‘ 
+Übung: Umsatzstruktur Januar nach Regionen 
+in % A B
+Nord 13 39
+Süd 35 6
+West 27 27
+Ost 25 28
+Entwerfen Sie so 
+viele Schaubilder, 
+wie Ihnen zu 
+diesen Zahlen 
+einfallen! 
+überlegen Sie sich
+treffende Aussagen 
+zu jedem 
+Schaubild! 
+Quelle: Zelazny (1996)
+--- PAGE 125 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Unterschiedliche grafische Darstellungen der 
+gleichen Zahlen drücken Verschiedenes aus! (I)
+Übung: Umsatzstruktur Januar nach Regionen 
+Unternehmen A und B haben unterschiedliche Umsatzstrukturen! 
+Quelle: Zelazny ( 1996)
+25%
+27%
+35%
+13%
+N
+S
+O
+W
+28%
+27%
+6%
+39%
+N
+SO
+W
+Unternehmen A Unternehmen B
+N
+S
+O
+W
+Unternehmen AUnternehmen B
+39%
+6%
+27%
+28%
+13%
+35%
+27%
+25%
+--- PAGE 126 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Unterschiedliche grafische Darstellungen der 
+gleichen Zahlen drücken Verschiedenes aus! (II)
+Übung: Umsatzstruktur Januar nach Regionen 
+Die regionalen Schwerpunkte beider Unternehmen 
+sind verschieden! 
+Quelle: Zelazny ( 1996)
+Unternehmen A Unternehmen B
+N
+S
+O
+W
+39%
+6%
+27%
+28%
+13%
+35%
+27%
+25%
+Unternehmen A Unternehmen B
+N
+S
+O
+W
+39%
+6%
+27%
+28%
+13%
+35%
+27%
+25%
+N
+S
+O
+W
+Unternehmen A setzt im Süden, Unternehmen B im 
+Norden am meisten um!
+--- PAGE 127 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Unterschiedliche grafische Darstellungen der 
+gleichen Zahlen drücken Verschiedenes aus! (III)
+Übung: Umsatzstruktur Januar nach Regionen 
+Quelle: Zelazny (1996)
+Unternehmen A Unternehmen B
+39%
+27%
+28%
+13%
+35%
+27%
+25%
+N
+S
+O
+W
+N
+S
+O
+W
+6%
+27%
+28%
+13%
+35%
+27%
+25%
+A
+B
+A
+B
+A
+B
+A
+B 39%
+39%
+27%
+28%
+39%
+6%
+Den höchsten Umsatz generiert A im 
+Süden, wo B am schwächsten ist.
+Im Süden hat A einen Vorsprung; 
+im Norden einen deutlichen Rückstand.
+--- PAGE 128 ---
+Univ.-Prof. Dr. Matthias Meyer 
+129
+Verschiedene Qualitätsdimensionen von Informationen
+• Aktualität (in Relation zur Dynamik der Unternehmensinnenwelt und -umwelt)
+• Umfang (Information Overload vs. „Blinder Fleck“)
+• Kommunikation
+− Nachvollziehbarkeit
+− Kommunikationskosten
+− Sicherheit
+• Messung
+− Reliabilität
+− Validität
+− Objektivität
+− Relevanz
+--- PAGE 129 ---
+Univ.-Prof. Dr. Matthias Meyer 
+130
+Wesentliche Begriffe kurz erklärt
+Formen von Unsicherheit 
+• Aleatorische vs. epistemische Unsicherheit 
+• Letztere vor allem durch messfehlerinduzierte Varianz (Mertens & Meyer, 2018; Mertens & Meyer, 2021)
+Unsicherheit und Qualitätskriterien von Informationen
+GENAUUNGENAU
+Niedrige Validität
+Hohe Reliabilität
+Hohe Validität
+Niedrige Reliabilität
+Niedrige Validität
+Niedrige Reliabilität
+Hohe Validität
+Hohe Reliabilität
+Andere Begrifflichkeiten
+• Rauschen, Unschärfe
+• Varianz
+• Unsicherheit 
+• Messunsicherheit 
+• Random / White Noise 
+• Verzerrung 
+• Bias
+--- PAGE 130 ---
+Univ.-Prof. Dr. Matthias Meyer 
+131
+Varianz und Bias in der Kostenrechnung sind teilweise 
+beträchtlich
+Kostenvarianz und Bias in einem Produktportfolio 
+Fehler [%]
+Bias ± Noise [%]
+Durchschnittliche Kostenmessung 
+(monetär) mit Noise Genau [%]
+≤±5%
+Überschätzt[%]
+>5%
+Unterschätzt [%]
+<-5%
+-4.42±11.89 50,000 ± 6,051 37 16 47
+• 25 Kostenstellen
+• Einfacher Kostentreiber 
+• Moderate Ressourcenteilung 
+• 3-5 hochvolumige Produkte  
+--- PAGE 131 ---
+Univ.-Prof. Dr. Matthias Meyer 
+132
+Mit mehr Kostenstellen nimmt der Bias und die Noise ab
+Messfehlerinduzierte Kostenvarianz und Bias bei Verfeinerung des Kostensystems (Mertens & 
+Meyer, 2021)
+• Trotz steigender Anzahl an Messfehlern durch die Hinzunahme von 
+Kostenstellen, verringert sich die Noise am Anfang. Dies passiert 
+durch das gegenseitige Verrechnen im System zwischen den 
+einzelnen Messfehlern (noise offsetting effect)
+• Selbst eine kleine Anzahl von Fehlern im System (z.B. 1 Fehler in 10% 
+der Messungen) infiziert den gesamten Output (spillover effect)
+Noise [±%] Cost pools [CP]
+#Error 1 5 10 15 20 25 30 35 40 45 50
+10% 7.52 6.95 6.04 5.29 5.05 5.04 4.82 4.60 4.58 4.57 4.57
+50% 15.93 14.57 12.54 11.21 10.70 10.41 9.94 9.67 9.46 9.36 9.50
+100% 20.23 20.57 17.62 15.67 14.94 14.60 14.05 13.55 13.27 13.27 13.27
+#Error = Number of random measurement errors; CP = Number of cost pools
+--- PAGE 132 ---
+Univ.-Prof. Dr. Matthias Meyer 
+133
+Auf der IT -Seite haben sich die Möglichkeiten zur 
+Informationsbereitstellung erheblich verbessert
+• Automatische Aufbereitung in Frontends
+• Komplexe Analysen auf Knopfdruck durch Data-
+Mining
+Vorsysteme
+ETL - Extraktion, 
+Transformation, Laden
+Data Warehouse
+OLAP – 
+On-Line Analytical Processing
+Business Intelligence
+• Durchdringung aller operativen Bereiche mit EDV
+• Datenflut
+• Systemübergreifende Austauschstandards (XML)
+• Zunehmende Vernetzung 
+• Terra-Byte-große Datenpools
+• Sekundenschneller Zugriff
+• Komfortable Navigation in „Datenwürfeln“
+• Integration mit Tabellenkalkulations-Werkzeugen
+Quelle: in Anlehnung an Bange u.a. (2002), S. 9
+--- PAGE 133 ---
+Univ.-Prof. Dr. Matthias Meyer 
+134
+Ein »zu viel« an Informationen kann Aktionismus 
+auslösen, der zu irrationalem Verhalten führt
+Defekte im Entscheidungsverhalten infolge von Grenzen der 
+Informationsverarbeitungsfähigkeit von Menschen
+Der unterschiedliche Know-how-Stand des Managers muss vom Controller explizit berücksichtigt werden – eine Übertragung aus dem Marketing 
+Selbststudium A2
+Quelle: Weber/Schäffer ( 2020) S.100; angelehnt an 
+Dörner 1989, S.151-155.
+--- PAGE 134 ---
+Univ.-Prof. Dr. Matthias Meyer 
+135
+Controller müssen sich der typischen Fehler im 
+menschlichen Informationsverhalten bewusst sein
+Quelle: Weber/Schäffer 2006, S.85
+Fehler im Menschlichen Informationsverhalten 
+Potentielle Fehler
+Fehler bei der Wahrnehmung und 
+Interpretation von Informationen 
+Fehler resultieren aus begrenzten 
+kognitiven Fähigkeiten und fest 
+gefügten Selbstbildern und Weltbildern. 
+Fehler resultieren aus Informations-
+überschuss und Zahlenverliebtheit.  
+Fehler aufgrund eines »zu viel« an 
+Informationen (Information Overload)
+Typische Fehler sind z.B.
+• Stereotypenbildung
+• Halo-Effekt
+• Ankereffekt
+Typische Fehler sind z.B.
+• Gestörte 
+Perzeptionsfähigkeit, da 
+die wirklich wichtigen 
+Informationen nicht mehr 
+herausgefiltert werden 
+können
+• Schwächung der 
+Prognose- und 
+Bewertungsfähigkeit
+Hoher Anspruch
+an den Controller
+ als Informations-
+intermediär
+--- PAGE 135 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Kapitel 2
+Kapitel 2
+136
+Inhaltsverzeichnis
+1. Controlling und Controllership
+2.1 Grundlagen der Informationsversorgung 
+    2.2 Kennzahlen und Kennzahlensysteme
+    2.3 Berichtswesen
+    2.4 Gestaltung der Informationsversorgung 
+    2.5 Zusammenfassung - Informationsversorgung
+2. Informationsversorgung 
+3. Planung und Kontrolle 
+3.1 Grundlagen Planung und Kontrolle 
+    3.2 Operative Planung / Budgetierung
+    3.3 Mittelfristplanung
+ 3.3.1 Einführung 
+ 3.3.2 Struktur des taktischen Planungsprozesses 
+ 3.3.3 Instrumente der taktischen Planung 
+ 3.3.4 Zusammenfassung – Mittelfristplanung
+3.4 Strategische Planung 
+ 3.4.1 Einführung 
+ 3.4.2 Struktur des strategischen Planungsprozesses 
+ 3.4.3 Instrumente im strategischen Planungsprozess 
+ 3.4.4 Zusammenfassung - Strategische Planung 
+ 
+2.3 Berichtswesen
+2.5 Zusammenfassung – Informationsversorgung 
+--- PAGE 136 ---
+Univ.-Prof. Dr. Matthias Meyer 
+137
+Zusammenfassung Kapitel 2
+• Die Informationsversorgung der Manager bildet und wird auch in Zukunft eine der Kernaufgaben des Controlling bilden. Mittels 
+des »Produkts« Information sichern sich Controller einen regelmäßigen Kontakt zu ihren internen »Kunden« sowie die 
+Möglichkeit der Einflussnahme und das Recht des Widerspruchs.
+• Die Erfolgswirkung einer guten Informationsversorgung des Managements lässt sich ebenfalls empirisch untermauern.
+• Bei der Gestaltung der Informationsversorgung haben verhaltensorientierte Aspekte eine große Bedeutung (vs. reiner Fokus 
+auf die „richtigen“ Zahlen und Instrumente).
+• Kennzahlen und -systeme bieten eine verdichtete Informationsbasis für das betriebliche Geschehen. In den vergangenen 
+Jahren ist eine Ergänzung der dominant finanziellen Betrachtungsweise um nicht -monetäre Aspekte zu beobachten.
+• Das Berichtswesen bietet die Gelegenheit zum regelmäßigen Kontakt zum Management. In der Praxis ist dieses sehr 
+unterschiedlich ausgestaltet.
+• In allen Bereichen der Informationsversorgung ist es wichtig, diese an den Adressaten auszurichten. Hilfreich hierfür ist 
+allgemein eine verhaltensorientierte Perspektive auf das Controlling einzunehmen (vs. reine Betrachtung der Instrumente). 
+Selbststudium
+--- PAGE 137 ---
+tuhh.de
+Dankeschön
+Prof. Dr. Matthias Meyer 
+Institute of Management 
+Accounting and Simulation
+--- PAGE 138 ---
+Kapitel 2.3 Berichtswesen & 2.4 Gestaltung der 
+Informationsversorgung – 
+Appendix zum Selbststudium
+139
+--- PAGE 139 ---
+Univ.-Prof. Dr. Matthias Meyer 
+• Was versteht man unter dem Begriff „Berichtswesen“? 
+• Welche Berichtstypen lassen sich unterscheiden? 
+• Welche Gestaltungsprinzipien für Berichte haben Sie kennengelernt? 
+• Welche Vergleichstypen lassen sich im Berichtswesen unterscheiden?
+• Was sind typische Fehler im menschlichen Informationsverhalten?  
+140
+2.3 Berichtswesen & 2.4 Gestaltung der 
+Informationsversorgung 
+WIEDERHOLUNGSFRAGEN - VL
+--- PAGE 140 ---
+Univ.-Prof. Dr. Matthias Meyer 
+141
+Das Berichtswesen stellt den Entscheidungsträgern im 
+Unternehmen die erforderlichen Führungsinformationen zur 
+Verfügung
+Das Berichtswesen…
+• beansprucht im Controller-Bereich viele 
+Ressourcen
+• erhält hohe Management-Attention
+• ist Kristallisationspunkt der gesamten 
+Informationsversogung
+und damit
+  … ein Kernprodukt des Controllings.
+SelbststudiumTypische Berichtshierarchien in Großunternehmen
+Ver-
+dichtete 
+Gesamt-
+berichte
+Unter-
+nehm-
+ens-
+leitung
+Strategische 
+Entscheidung
+Berichtsebene FührungsebeneEntscheidungsebene
+Bereichs-ergebnisse 
+(PIV, Kennzahlen)
+Bereichs-
+leiter
+Ergebnisse der 
+Hauptabteilungen (SIV 
+oder PIV, Kennzahlen)
+Taktische 
+Entscheidung
+Hauptabteilungs-leiterOperative 
+Entscheidung
+Kostenstellenergebnisse 
+Kostenstellen-SIV, 
+kostenstellenbezogene 
+Kennzahlen
+Kostenstellenleiter
+--- PAGE 141 ---
+Univ.-Prof. Dr. Matthias Meyer 
+142
+Selbststudium
+Quelle: Industrie 4.0: Controllers Aufgaben, Controller Magazin 3/2016, S. 24.
+DO‘s and DON‘Ts
+--- PAGE 142 ---
+Univ.-Prof. Dr. Matthias Meyer 
+• Empfänger - und aktionsorientierte  Ausrichtung der Controllerberichte und Beschränkung 
+auf das Wesentliche  („lean reporting“)
+• Vergleichszahlen (z.B. Vorjahr, Vormonat) sowie Hochrechnungen, um individuelle 
+Prognosen zu erleichtern
+• Erhöhung der Lesbarkeit  durch graphische Elemente (für Zeichnungen vgl. Zelazny, 
+Hervorheben besonderer Planabweichungen) sowie durch das Voranstellen eines 
+Management Summary
+• Vorgabe eines Leitfadens  (Erläuterungen des Berichtsaufbaus sowie einzelner Positionen)
+• Interaktive Interpretation der Berichte durch die zuständigen Controller („Durchsprache“)
+• Ergänzung  von Routine -Berichten durch Ad -hoc-Berichte
+• Verwendung neutraler/positiver Formulierungen anstelle von Kritik
+143
+Praxisanforderungen an die Rolle des Controllers 
+innerhalb der Informationsversorgung
+Selbststudium
+--- PAGE 143 ---
+Univ.-Prof. Dr. Matthias Meyer 
+144
+Ein Mittel, das Berichtswesen an die Wünsche der 
+Kundenanzupassen, ist die Verwendung des Instruments der 
+Wichtigkeits -/Zufriedenheitsmatrix 
+Endprodukte
+Verständ-
+lichkeit
+3
+4
+6
+7
+3 5 6 7
+* Skala: 1 = sehr gering; 7 = sehr hoch
+Genauigkeit
+Kommentierung
+Inhalt/Art der 
+Daten5
+4
+Aggregations-
+grad der 
+Daten
+Beantwortun von 
+Rückfragen
+Berücksichtigung 
+Manageranforderungen
+Übersichtlichkeit
+SchnelligkeitFlexibilität
+Umfang
+Präsentation/ 
+Besprechung
+grafische 
+Aufbereitung/ 
+Gestaltung
+Berücksichtigung 
+Controlleranforderungen
+Wichtigkeit
+Selbststudium
+--- PAGE 144 ---
+Univ.-Prof. Dr. Matthias Meyer 
+145
+Der unterschiedliche Know -how-Stand des Managers muss vom 
+Controller explizit berücksichtigt werden – eine Übertragung aus dem 
+Marketing 
+• Der Manager kann die vom Controller gelieferte Information „aus dem Stand“ vollständig einschätzen: 
+Information als „Suchgut“
+• Der Manager kann die Information erst nach deren Verwendung vollständig einschätzen: 
+    Information als „Erfahrungsgut“
+• Der Manager kann die Information nur in Ausschnitten einschätzen: 
+    Information als „Vertrauensgut“
+SelbststudiumZur grundsätzlichen Charakterisierung der Informationsaufgabe 
+Willens-
+bildungs-
+modell
+WilleInformation
+--- PAGE 145 ---
+Univ.-Prof. Dr. Matthias Meyer 
+146
+Bedeutung der Unterscheidung am Beispiel des 
+Berichtswesens
+Selbststudium
+Monatliches
+Berichtswesen
+Der Controller muss die vom Manager gestellten 
+Anforderungen exakt umsetzen, die Berichte pünktlich 
+liefern und auf möglichst geringen Aufwand für das 
+Berichtswesen achten.
+Der Controller muss dem Manager die einzelnen Elemente 
+des Berichtswesens erklären und Veränderungen vor-
+schlagen. Er übernimmt eine aktive Rolle. 
+Der Controller muss für die Sinnhaftigkeit des Berichts-
+wesens werben und einen Plan entwickeln, Wissen beim 
+Management aufzubauen. In dieser Phase ist jeder Fehler 
+im Berichtswesen für die Akzeptanz „tödlich“. 
+Erfahrungsgut
+--- PAGE 146 ---
+Univ.-Prof. Dr. Matthias Meyer 
+147
+Fazit
+• Eine Kernaufgabe der Controller besteht in der Informationsversorgung der Manager. An Zahlen mangelt es 
+diesen jedoch prinzipiell nicht. Vielmehr besteht die Gefahr einer Informationsüberflutung bei gleichzeitigem 
+Fehlen „wirklich wichtiger“ Informationen.
+• Bei der Selektion der „wirklich wichtigen“ Informationen sind kognitive Begrenzungen der Manager ebenso zu 
+beachten wie den Versuchungen zu widerstehen, die die moderne Informationstechnologie bietet.
+• Controller müssen Zahlen nicht nur auf die Bedürfnisse der Führungskräfte zuschneiden, sondern diesen 
+auch erklären und „verkaufen“.
+• Ein Controller muss immer wissen, 
+(1) wozu ein Manager welche Information braucht, 
+(2) wie gut er sie einschätzen kann und 
+(3) was er wirklich damit macht.
+Selbststudium
+--- PAGE 147 ---
+Univ.-Prof. Dr. Matthias Meyer 
+Vorlesungsbegleitendes Nachschlagewerk: 
+Weber/Schäffer (2022), S.233 -257 (bis inkl. Kapitel 9.3)
+Bei weiterem Interesse:
+Zum Thema Error in Cost Systems:
+• Labro, E., & Vanhoucke , M. (2007). A simulation analysis of interactions among errors in costing 
+systems. The Accounting Review, 82(4), 939 -962.
+• Meyer, M. & Schmidt, M. (2024) Robust design heuristics for product costing systems: a replication and 
+extension using an ABC cost hierarchy. Journal of Business Economics, 
+https://link.springer.com/article/10.1007/s11573 -024-01210-x
+Zum Thema Berichtswesen: 
+• Youtube Video „Death to Pie Charts“ https://www.youtube.com/watch?v=p4WWEOFQpFU&t=403s
+• https://www.ibcs.com/de/resource/tipps -fuer-reporting -design/
+• https://www.storytellingwithdata.com/books
+148
+Zusatzmaterial 
+Selbststudium
