@@ -28,7 +28,7 @@
     const TARGETS = {
         ebitda: 3200, ltv: 40, roi: 5,
         csi: 73, vacancy: 2.0, rent: 4.0,
-        maintTotal: 2100, maintSqm: 26, newBuild: 3000,
+        maintTotal: 2250, maintSqm: 26, newBuild: 3000,
         employeeSat: 77, co2: 25, unitsPerEmp: 47.5,
     };
 
@@ -253,8 +253,8 @@
     /* ═══════════════════════════════════════
        BSC FINANZEN
        ═══════════════════════════════════════ */
-    barChart("chart-ebitda", "ebitda", C.blue, C.blueFill, { target: TARGETS.ebitda });
-    lineChart("chart-ltv", "ltv", C.amber, C.amberFill, { min: 35, target: TARGETS.ltv });
+    barChart("chart-ebitda", "ebitda", C.blue, C.blueFill, { min: 1500, target: TARGETS.ebitda });
+    lineChart("chart-ltv", "ltv", C.amber, C.amberFill, { min: 40, target: TARGETS.ltv });
 
     // ROI – special colour-coded
     const roiCfg = { id: "chart-roi", type: "roi", opts: {} };
