@@ -266,7 +266,7 @@
        ═══════════════════════════════════════ */
     lineChart("chart-csi", "csi", C.green, C.greenFill, { min: 55, target: TARGETS.csi });
     lineChart("chart-vacancy", "vacancy", C.red, C.redFill, { min: 0, target: TARGETS.vacancy });
-    lineChart("chart-rent", "rent", C.cyan, C.cyanFill, { target: TARGETS.rent });
+    lineChart("chart-rent", "rent", C.cyan, C.cyanFill, { min: 0, target: TARGETS.rent });
 
     /* ═══════════════════════════════════════
        BSC INTERNE GESCHÄFTSPROZESSE
