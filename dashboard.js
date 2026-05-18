@@ -86,7 +86,7 @@
                     return tooltipItem.raw !== null && tooltipItem.raw !== undefined;
                 },
                 callbacks: {
-                    label: function(context) {
+                    label: function (context) {
                         if (context.raw === null || context.raw === undefined) return null;
                         return context.dataset.label + ': ' + context.formattedValue;
                     }
