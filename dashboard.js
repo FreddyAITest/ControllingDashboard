@@ -106,10 +106,10 @@
     const registry = [];
 
     function filterData(fullData) {
-        return ALL_LABELS.map((y, i) => activeYears.has(y) ? fullData[i] : null);
+        return fullData.filter((_, i) => activeYears.has(ALL_LABELS[i]));
     }
     function getLabels(hasTarget) {
-        const l = [...ALL_LABELS];
+        const l = ALL_LABELS.filter(y => activeYears.has(y));
         if (hasTarget && showTarget) l.push("Ziel 2028");
         return l;
     }
