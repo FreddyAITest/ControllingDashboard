@@ -37,19 +37,21 @@
 
         <!-- KPI Summary Strip -->
         <section class="kpi-strip" id="kpi-strip">
-            <div class="kpi-card" id="kpi-stock" style="padding: 0; overflow: hidden; display: block; min-height: 100px;">
+            <div class="kpi-card" id="kpi-stock"
+                style="padding: 0; overflow: hidden; display: block; min-height: 100px;">
                 <!-- TradingView Widget BEGIN -->
                 <div class="tradingview-widget-container">
                     <div class="tradingview-widget-container__widget"></div>
-                    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js" async>
-                    {
-                        "symbol": "XETR:VNA",
-                        "width": "100%",
-                        "colorTheme": "dark",
-                        "isTransparent": true,
-                        "locale": "de_DE"
-                    }
-                    </script>
+                    <script type="text/javascript"
+                        src="https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js" async>
+                            {
+                                "symbol": "XETR:VNA",
+                                    "width": "100%",
+                                        "colorTheme": "dark",
+                                            "isTransparent": true,
+                                                "locale": "de_DE"
+                            }
+                        </script>
                 </div>
                 <!-- TradingView Widget END -->
             </div>
@@ -159,7 +161,7 @@
                 </div>
                 <div class="chart-tile" id="tile-maint-sqm">
                     <div class="tile-header">
-                        <h3>Instandhaltungsaufwand pro m²</h3>
+                        <h3>Instandhaltungsaufwand und substanzwahrende Investitionen pro m²</h3>
                         <span class="tile-unit">in €/m²</span>
                     </div>
                     <div class="chart-wrap"><canvas id="chart-maint-sqm"></canvas></div>
@@ -186,7 +188,7 @@
                 <div class="chart-tile" id="tile-employee-sat">
                     <div class="tile-header">
                         <h3>Mitarbeiterzufriedenheit</h3>
-                        <span class="tile-unit">Index</span>
+                        <span class="tile-unit">in %</span>
                     </div>
                     <div class="chart-wrap"><canvas id="chart-employee-sat"></canvas></div>
                 </div>

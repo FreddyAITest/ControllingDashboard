@@ -20,7 +20,7 @@
         maintSqm: [19.02, 22.31, 26.17, 24.81, 21.03, 22.46, 24.23],
         newBuild: [2092, 2088, 2200, 3749, 2460, 3747, 2090],
         co2: [47.2, 39.5, 38.4, 33.0, 31.7, 31.2, 30.7],
-        employeeSat: [0, 0, 0, 0, 0, 0.75, 0.77],
+        employeeSat: [0, 0, 0, 0, 0, 75, 77],
         unitsPerEmp: [47.8, 46.1, 40.1, 51.3, 51.7, 50.9, 47.8],
     };
 
@@ -29,7 +29,7 @@
         ebitda: 3200, ltv: 40, roi: 5,
         csi: 73, vacancy: 2.0, rent: 4.0,
         maintTotal: 2100, maintSqm: 26, newBuild: 3000,
-        employeeSat: 0.77, co2: 25, unitsPerEmp: 47.5,
+        employeeSat: 77, co2: 25, unitsPerEmp: 47.5,
     };
 
     // ── Filter state ──
