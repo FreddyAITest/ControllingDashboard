@@ -82,6 +82,15 @@
                 padding: 14,
                 displayColors: true,
                 animation: { duration: 150 },
+                filter: (tooltipItem) => {
+                    return tooltipItem.raw !== null && tooltipItem.raw !== undefined;
+                },
+                callbacks: {
+                    label: function(context) {
+                        if (context.raw === null || context.raw === undefined) return null;
+                        return context.dataset.label + ': ' + context.formattedValue;
+                    }
+                },
             },
             legend: {
                 display: true,
