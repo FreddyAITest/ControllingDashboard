@@ -37,10 +37,21 @@
 
         <!-- KPI Summary Strip -->
         <section class="kpi-strip" id="kpi-strip">
-            <div class="kpi-card" id="kpi-ebitda">
-                <span class="kpi-label">Adj. EBITDA 2025</span>
-                <span class="kpi-value">€2.800,8 Mio</span>
-                <span class="kpi-delta positive">▲ 6,0%</span>
+            <div class="kpi-card" id="kpi-stock" style="padding: 0; overflow: hidden; display: block; min-height: 100px;">
+                <!-- TradingView Widget BEGIN -->
+                <div class="tradingview-widget-container">
+                    <div class="tradingview-widget-container__widget"></div>
+                    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js" async>
+                    {
+                        "symbol": "XETR:VNA",
+                        "width": "100%",
+                        "colorTheme": "dark",
+                        "isTransparent": true,
+                        "locale": "de_DE"
+                    }
+                    </script>
+                </div>
+                <!-- TradingView Widget END -->
             </div>
             <div class="kpi-card" id="kpi-ltv">
                 <span class="kpi-label">LTV 2025</span>

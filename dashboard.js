@@ -359,4 +359,20 @@
         el.style.animationDelay = `${i * 0.07}s`;
     });
 
+    // ── Collapsible Sections ──
+    document.querySelectorAll(".bsc-header").forEach(header => {
+        // Create chevron element
+        const chevron = document.createElement("span");
+        chevron.className = "collapse-icon";
+        chevron.textContent = "▼";
+        header.appendChild(chevron);
+
+        header.title = "Klicken, um die Sektion ein-/auszuklappen";
+
+        header.addEventListener("click", () => {
+            const section = header.parentElement;
+            section.classList.toggle("collapsed");
+        });
+    });
+
 })();

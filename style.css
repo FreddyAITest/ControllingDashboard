@@ -117,6 +117,24 @@ body {
     padding-bottom: 12px;
     border-bottom: 2px solid var(--border);
     position: relative;
+    cursor: pointer;
+    user-select: none;
+    transition: opacity 0.2s;
+}
+.bsc-header:hover {
+    opacity: 0.8;
+}
+.collapse-icon {
+    margin-left: auto;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    transition: transform 0.3s ease;
+}
+.bsc-section.collapsed .collapse-icon {
+    transform: rotate(-90deg);
+}
+.bsc-section.collapsed .charts-grid {
+    display: none;
 }
 .bsc-header::after {
     content: '';
