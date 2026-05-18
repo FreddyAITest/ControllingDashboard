@@ -273,14 +273,14 @@
        ═══════════════════════════════════════ */
     barChart("chart-maint-total", "maintTotal", C.purple, C.purpleFill, { target: TARGETS.maintTotal });
     lineChart("chart-maint-sqm", "maintSqm", C.amber, C.amberFill, { min: 10, target: TARGETS.maintSqm });
-    lineChart("chart-co2", "co2", C.green, C.greenFill, { min: 20, target: TARGETS.co2 });
+    barChart("chart-newbuild", "newBuild", C.pink, C.pinkFill, { target: TARGETS.newBuild });
 
     /* ═══════════════════════════════════════
        BSC MITARBEITER & NACHHALTIGKEIT
        ═══════════════════════════════════════ */
     lineChart("chart-employee-sat", "employeeSat", C.cyan, C.cyanFill, { min: 0, target: TARGETS.employeeSat });
+    lineChart("chart-co2", "co2", C.green, C.greenFill, { min: 20, target: TARGETS.co2 });
     lineChart("chart-units-per-emp", "unitsPerEmp", C.blue, C.blueFill, { min: 30, target: TARGETS.unitsPerEmp });
-    barChart("chart-newbuild", "newBuild", C.pink, C.pinkFill, { target: TARGETS.newBuild });
 
     // ── Filter UI ──
     const filterBar = document.getElementById("year-filter");
