@@ -29,7 +29,7 @@
         ebitda: 3200, ltv: 40, roi: 5,
         csi: 73, vacancy: 2.0, rent: 4.0,
         maintTotal: 2250, maintSqm: 26, newBuild: 3000,
-        employeeSat: 77, co2: 25, unitsPerEmp: 47.5,
+        employeeSat: 77, co2: 25, unitsPerEmp: 50,
     };
 
     // ── Filter state ──
